@@ -1,0 +1,798 @@
+Shapshape
+hidden_size = 256            
+ output_size = 1
+learning_rate = 1e-4            
+ num_epochs = 4000
+ shap_update_frequency=400
+ D:\SoftWare\Anaconda3\envs\wupytorch3.8\python.exe F:\光谱\光谱检测吡虫啉\shapshape.py 
+DATA1
+Training Fold 1/5
+Fold 1, Epoch 100/4000, Train Loss: 3.22, Val Loss: 3.11, R2: 0.35, RMSE: 1.76, RPD: 1.24
+Fold 1, Epoch 200/4000, Train Loss: 2.91, Val Loss: 2.89, R2: 0.40, RMSE: 1.70, RPD: 1.29
+Fold 1, Epoch 300/4000, Train Loss: 3.05, Val Loss: 2.71, R2: 0.44, RMSE: 1.65, RPD: 1.33
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 1, Epoch 400/4000, Train Loss: 2.36, Val Loss: 185.48, R2: -37.70, RMSE: 13.62, RPD: 0.16
+Fold 1, Epoch 500/4000, Train Loss: 2.67, Val Loss: 2.30, R2: 0.52, RMSE: 1.52, RPD: 1.44
+Fold 1, Epoch 600/4000, Train Loss: 2.40, Val Loss: 2.44, R2: 0.49, RMSE: 1.56, RPD: 1.40
+Fold 1, Epoch 700/4000, Train Loss: 1.82, Val Loss: 2.18, R2: 0.55, RMSE: 1.48, RPD: 1.48
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 1, Epoch 800/4000, Train Loss: 1.47, Val Loss: 2.15, R2: 0.55, RMSE: 1.47, RPD: 1.49
+Fold 1, Epoch 900/4000, Train Loss: 1.49, Val Loss: 2.19, R2: 0.54, RMSE: 1.48, RPD: 1.48
+Fold 1, Epoch 1000/4000, Train Loss: 1.22, Val Loss: 2.04, R2: 0.58, RMSE: 1.43, RPD: 1.53
+Fold 1, Epoch 1100/4000, Train Loss: 1.11, Val Loss: 2.09, R2: 0.56, RMSE: 1.45, RPD: 1.51
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 1, Epoch 1200/4000, Train Loss: 1.07, Val Loss: 1.95, R2: 0.59, RMSE: 1.40, RPD: 1.57
+Fold 1, Epoch 1300/4000, Train Loss: 1.08, Val Loss: 1.81, R2: 0.62, RMSE: 1.35, RPD: 1.63
+Fold 1, Epoch 1400/4000, Train Loss: 0.89, Val Loss: 1.48, R2: 0.69, RMSE: 1.22, RPD: 1.80
+Fold 1, Epoch 1500/4000, Train Loss: 0.74, Val Loss: 1.78, R2: 0.63, RMSE: 1.33, RPD: 1.64
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 1, Epoch 1600/4000, Train Loss: 0.88, Val Loss: 1.56, R2: 0.68, RMSE: 1.25, RPD: 1.75
+Fold 1, Epoch 1700/4000, Train Loss: 0.79, Val Loss: 1.35, R2: 0.72, RMSE: 1.16, RPD: 1.89
+Fold 1, Epoch 1800/4000, Train Loss: 0.61, Val Loss: 1.49, R2: 0.69, RMSE: 1.22, RPD: 1.79
+Fold 1, Epoch 1900/4000, Train Loss: 0.74, Val Loss: 1.20, R2: 0.75, RMSE: 1.09, RPD: 2.00
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 1, Epoch 2000/4000, Train Loss: 0.71, Val Loss: 1.41, R2: 0.71, RMSE: 1.19, RPD: 1.84
+Fold 1, Epoch 2100/4000, Train Loss: 0.54, Val Loss: 1.28, R2: 0.73, RMSE: 1.13, RPD: 1.93
+Fold 1, Epoch 2200/4000, Train Loss: 0.61, Val Loss: 1.20, R2: 0.75, RMSE: 1.10, RPD: 2.00
+Fold 1, Epoch 2300/4000, Train Loss: 0.59, Val Loss: 1.08, R2: 0.78, RMSE: 1.04, RPD: 2.11
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 1, Epoch 2400/4000, Train Loss: 0.75, Val Loss: 1.38, R2: 0.71, RMSE: 1.17, RPD: 1.87
+Fold 1, Epoch 2500/4000, Train Loss: 0.51, Val Loss: 1.47, R2: 0.69, RMSE: 1.21, RPD: 1.81
+Fold 1, Epoch 2600/4000, Train Loss: 0.55, Val Loss: 1.04, R2: 0.78, RMSE: 1.02, RPD: 2.15
+Fold 1, Epoch 2700/4000, Train Loss: 0.50, Val Loss: 1.01, R2: 0.79, RMSE: 1.01, RPD: 2.17
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 1, Epoch 2800/4000, Train Loss: 0.52, Val Loss: 1.22, R2: 0.75, RMSE: 1.10, RPD: 1.99
+Fold 1, Epoch 2900/4000, Train Loss: 0.51, Val Loss: 1.16, R2: 0.76, RMSE: 1.08, RPD: 2.03
+Fold 1, Epoch 3000/4000, Train Loss: 0.48, Val Loss: 0.95, R2: 0.80, RMSE: 0.97, RPD: 2.25
+Fold 1, Epoch 3100/4000, Train Loss: 0.49, Val Loss: 1.01, R2: 0.79, RMSE: 1.01, RPD: 2.18
+Updating train SHAP values at epoch 3200
+Updating val SHAP values at epoch 3200
+Fold 1, Epoch 3200/4000, Train Loss: 0.57, Val Loss: 0.91, R2: 0.81, RMSE: 0.95, RPD: 2.30
+Fold 1, Epoch 3300/4000, Train Loss: 0.49, Val Loss: 0.88, R2: 0.82, RMSE: 0.94, RPD: 2.33
+Fold 1, Epoch 3400/4000, Train Loss: 0.51, Val Loss: 1.08, R2: 0.78, RMSE: 1.04, RPD: 2.11
+Fold 1, Epoch 3500/4000, Train Loss: 0.39, Val Loss: 0.99, R2: 0.79, RMSE: 0.99, RPD: 2.20
+Updating train SHAP values at epoch 3600
+Updating val SHAP values at epoch 3600
+Fold 1, Epoch 3600/4000, Train Loss: 0.53, Val Loss: 0.87, R2: 0.82, RMSE: 0.93, RPD: 2.34
+Fold 1, Epoch 3700/4000, Train Loss: 0.51, Val Loss: 1.09, R2: 0.77, RMSE: 1.05, RPD: 2.09
+Fold 1, Epoch 3800/4000, Train Loss: 0.48, Val Loss: 0.63, R2: 0.87, RMSE: 0.80, RPD: 2.75
+Fold 1, Epoch 3900/4000, Train Loss: 0.42, Val Loss: 0.72, R2: 0.85, RMSE: 0.85, RPD: 2.58
+Updating train SHAP values at epoch 4000
+Updating val SHAP values at epoch 4000
+Fold 1, Epoch 4000/4000, Train Loss: 0.40, Val Loss: 0.86, R2: 0.82, RMSE: 0.93, RPD: 2.36
+Fold 1, Epoch 4000/4000, Cal Loss: 0.07, R2C: 0.98, RMSEC: 0.26, RPDC: 8.06,Val Loss: 0.61, R2: 0.87, RMSE: 0.78, RPD: 2.81
+
+Training Fold 2/5
+Fold 2, Epoch 100/4000, Train Loss: 2.93, Val Loss: 3.93, R2: 0.27, RMSE: 1.98, RPD: 1.17
+Fold 2, Epoch 200/4000, Train Loss: 2.86, Val Loss: 3.53, R2: 0.35, RMSE: 1.88, RPD: 1.24
+Fold 2, Epoch 300/4000, Train Loss: 2.46, Val Loss: 3.19, R2: 0.41, RMSE: 1.78, RPD: 1.30
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 2, Epoch 400/4000, Train Loss: 2.44, Val Loss: 187.08, R2: -33.62, RMSE: 13.68, RPD: 0.17
+Fold 2, Epoch 500/4000, Train Loss: 2.61, Val Loss: 3.08, R2: 0.43, RMSE: 1.76, RPD: 1.32
+Fold 2, Epoch 600/4000, Train Loss: 1.68, Val Loss: 2.60, R2: 0.52, RMSE: 1.61, RPD: 1.44
+Fold 2, Epoch 700/4000, Train Loss: 1.59, Val Loss: 2.42, R2: 0.55, RMSE: 1.56, RPD: 1.49
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 2, Epoch 800/4000, Train Loss: 1.44, Val Loss: 2.10, R2: 0.61, RMSE: 1.45, RPD: 1.60
+Fold 2, Epoch 900/4000, Train Loss: 1.47, Val Loss: 1.86, R2: 0.66, RMSE: 1.36, RPD: 1.71
+Fold 2, Epoch 1000/4000, Train Loss: 1.17, Val Loss: 1.55, R2: 0.71, RMSE: 1.25, RPD: 1.87
+Fold 2, Epoch 1100/4000, Train Loss: 0.99, Val Loss: 1.52, R2: 0.72, RMSE: 1.23, RPD: 1.89
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 2, Epoch 1200/4000, Train Loss: 0.76, Val Loss: 1.16, R2: 0.78, RMSE: 1.08, RPD: 2.15
+Fold 2, Epoch 1300/4000, Train Loss: 1.03, Val Loss: 1.04, R2: 0.81, RMSE: 1.02, RPD: 2.28
+Fold 2, Epoch 1400/4000, Train Loss: 0.69, Val Loss: 1.02, R2: 0.81, RMSE: 1.01, RPD: 2.30
+Fold 2, Epoch 1500/4000, Train Loss: 0.58, Val Loss: 1.12, R2: 0.79, RMSE: 1.06, RPD: 2.20
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 2, Epoch 1600/4000, Train Loss: 0.65, Val Loss: 0.98, R2: 0.82, RMSE: 0.99, RPD: 2.35
+Fold 2, Epoch 1700/4000, Train Loss: 0.69, Val Loss: 0.76, R2: 0.86, RMSE: 0.87, RPD: 2.67
+Fold 2, Epoch 1800/4000, Train Loss: 0.57, Val Loss: 0.88, R2: 0.84, RMSE: 0.94, RPD: 2.48
+Fold 2, Epoch 1900/4000, Train Loss: 0.63, Val Loss: 0.67, R2: 0.88, RMSE: 0.82, RPD: 2.85
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 2, Epoch 2000/4000, Train Loss: 0.63, Val Loss: 0.93, R2: 0.83, RMSE: 0.97, RPD: 2.40
+Fold 2, Epoch 2100/4000, Train Loss: 0.58, Val Loss: 0.90, R2: 0.83, RMSE: 0.95, RPD: 2.46
+Fold 2, Epoch 2200/4000, Train Loss: 0.56, Val Loss: 0.90, R2: 0.83, RMSE: 0.95, RPD: 2.46
+Fold 2, Epoch 2300/4000, Train Loss: 0.48, Val Loss: 0.49, R2: 0.91, RMSE: 0.70, RPD: 3.32
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 2, Epoch 2400/4000, Train Loss: 0.54, Val Loss: 0.65, R2: 0.88, RMSE: 0.81, RPD: 2.88
+Fold 2, Epoch 2500/4000, Train Loss: 0.45, Val Loss: 0.70, R2: 0.87, RMSE: 0.83, RPD: 2.78
+Fold 2, Epoch 2600/4000, Train Loss: 0.46, Val Loss: 0.53, R2: 0.90, RMSE: 0.73, RPD: 3.19
+Fold 2, Epoch 2700/4000, Train Loss: 0.49, Val Loss: 0.56, R2: 0.90, RMSE: 0.75, RPD: 3.09
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 2, Epoch 2800/4000, Train Loss: 0.55, Val Loss: 0.95, R2: 0.82, RMSE: 0.98, RPD: 2.38
+Fold 2, Epoch 2900/4000, Train Loss: 0.49, Val Loss: 0.75, R2: 0.86, RMSE: 0.87, RPD: 2.68
+Fold 2, Epoch 3000/4000, Train Loss: 0.49, Val Loss: 0.55, R2: 0.90, RMSE: 0.74, RPD: 3.15
+Fold 2, Epoch 3100/4000, Train Loss: 0.43, Val Loss: 0.55, R2: 0.90, RMSE: 0.74, RPD: 3.14
+Updating train SHAP values at epoch 3200
+Updating val SHAP values at epoch 3200
+Fold 2, Epoch 3200/4000, Train Loss: 0.41, Val Loss: 0.73, R2: 0.87, RMSE: 0.85, RPD: 2.73
+Fold 2, Epoch 3300/4000, Train Loss: 0.46, Val Loss: 0.60, R2: 0.89, RMSE: 0.78, RPD: 3.00
+Fold 2, Epoch 3400/4000, Train Loss: 0.35, Val Loss: 0.46, R2: 0.91, RMSE: 0.68, RPD: 3.42
+Fold 2, Epoch 3500/4000, Train Loss: 0.39, Val Loss: 0.53, R2: 0.90, RMSE: 0.73, RPD: 3.19
+Updating train SHAP values at epoch 3600
+Updating val SHAP values at epoch 3600
+Fold 2, Epoch 3600/4000, Train Loss: 0.43, Val Loss: 0.64, R2: 0.88, RMSE: 0.80, RPD: 2.91
+Fold 2, Epoch 3700/4000, Train Loss: 0.42, Val Loss: 0.64, R2: 0.88, RMSE: 0.80, RPD: 2.90
+Fold 2, Epoch 3800/4000, Train Loss: 0.40, Val Loss: 0.57, R2: 0.89, RMSE: 0.76, RPD: 3.08
+Fold 2, Epoch 3900/4000, Train Loss: 0.48, Val Loss: 0.57, R2: 0.89, RMSE: 0.75, RPD: 3.08
+Early stopping
+Fold 2, Epoch 3947/4000, Cal Loss: 0.14, R2C: 0.97, RMSEC: 0.38, RPDC: 5.42,Val Loss: 0.39, R2: 0.93, RMSE: 0.62, RPD: 3.74
+
+Training Fold 3/5
+Fold 3, Epoch 100/4000, Train Loss: 3.84, Val Loss: 2.24, R2: 0.42, RMSE: 1.50, RPD: 1.31
+Fold 3, Epoch 200/4000, Train Loss: 3.07, Val Loss: 1.83, R2: 0.52, RMSE: 1.35, RPD: 1.45
+Fold 3, Epoch 300/4000, Train Loss: 2.86, Val Loss: 2.19, R2: 0.43, RMSE: 1.48, RPD: 1.33
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 3, Epoch 400/4000, Train Loss: 2.62, Val Loss: 188.89, R2: -48.11, RMSE: 13.74, RPD: 0.14
+Fold 3, Epoch 500/4000, Train Loss: 2.82, Val Loss: 1.86, R2: 0.52, RMSE: 1.36, RPD: 1.44
+Fold 3, Epoch 600/4000, Train Loss: 2.17, Val Loss: 1.31, R2: 0.66, RMSE: 1.14, RPD: 1.72
+Fold 3, Epoch 700/4000, Train Loss: 1.83, Val Loss: 1.49, R2: 0.61, RMSE: 1.22, RPD: 1.61
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 3, Epoch 800/4000, Train Loss: 1.57, Val Loss: 1.44, R2: 0.62, RMSE: 1.20, RPD: 1.63
+Fold 3, Epoch 900/4000, Train Loss: 1.47, Val Loss: 1.42, R2: 0.63, RMSE: 1.19, RPD: 1.64
+Fold 3, Epoch 1000/4000, Train Loss: 1.66, Val Loss: 1.04, R2: 0.73, RMSE: 1.02, RPD: 1.92
+Fold 3, Epoch 1100/4000, Train Loss: 1.10, Val Loss: 1.35, R2: 0.65, RMSE: 1.16, RPD: 1.69
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 3, Epoch 1200/4000, Train Loss: 1.30, Val Loss: 1.24, R2: 0.68, RMSE: 1.11, RPD: 1.76
+Fold 3, Epoch 1300/4000, Train Loss: 0.86, Val Loss: 1.20, R2: 0.69, RMSE: 1.10, RPD: 1.79
+Fold 3, Epoch 1400/4000, Train Loss: 0.90, Val Loss: 1.24, R2: 0.68, RMSE: 1.11, RPD: 1.76
+Fold 3, Epoch 1500/4000, Train Loss: 0.90, Val Loss: 1.26, R2: 0.67, RMSE: 1.12, RPD: 1.75
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 3, Epoch 1600/4000, Train Loss: 0.69, Val Loss: 1.38, R2: 0.64, RMSE: 1.17, RPD: 1.67
+Fold 3, Epoch 1700/4000, Train Loss: 0.76, Val Loss: 1.29, R2: 0.66, RMSE: 1.14, RPD: 1.73
+Fold 3, Epoch 1800/4000, Train Loss: 0.80, Val Loss: 1.47, R2: 0.62, RMSE: 1.21, RPD: 1.62
+Fold 3, Epoch 1900/4000, Train Loss: 0.64, Val Loss: 1.13, R2: 0.71, RMSE: 1.06, RPD: 1.84
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 3, Epoch 2000/4000, Train Loss: 0.54, Val Loss: 1.11, R2: 0.71, RMSE: 1.05, RPD: 1.86
+Fold 3, Epoch 2100/4000, Train Loss: 0.50, Val Loss: 1.36, R2: 0.65, RMSE: 1.17, RPD: 1.68
+Fold 3, Epoch 2200/4000, Train Loss: 0.51, Val Loss: 1.35, R2: 0.65, RMSE: 1.16, RPD: 1.69
+Fold 3, Epoch 2300/4000, Train Loss: 0.49, Val Loss: 1.34, R2: 0.65, RMSE: 1.16, RPD: 1.69
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 3, Epoch 2400/4000, Train Loss: 0.42, Val Loss: 1.04, R2: 0.73, RMSE: 1.02, RPD: 1.93
+Fold 3, Epoch 2500/4000, Train Loss: 0.60, Val Loss: 1.27, R2: 0.67, RMSE: 1.13, RPD: 1.74
+Fold 3, Epoch 2600/4000, Train Loss: 0.57, Val Loss: 1.03, R2: 0.73, RMSE: 1.01, RPD: 1.93
+Fold 3, Epoch 2700/4000, Train Loss: 0.41, Val Loss: 1.20, R2: 0.69, RMSE: 1.09, RPD: 1.79
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 3, Epoch 2800/4000, Train Loss: 0.69, Val Loss: 1.22, R2: 0.68, RMSE: 1.11, RPD: 1.77
+Fold 3, Epoch 2900/4000, Train Loss: 0.44, Val Loss: 0.97, R2: 0.75, RMSE: 0.99, RPD: 1.99
+Fold 3, Epoch 3000/4000, Train Loss: 0.48, Val Loss: 1.06, R2: 0.72, RMSE: 1.03, RPD: 1.90
+Fold 3, Epoch 3100/4000, Train Loss: 0.42, Val Loss: 1.04, R2: 0.73, RMSE: 1.02, RPD: 1.93
+Updating train SHAP values at epoch 3200
+Updating val SHAP values at epoch 3200
+Fold 3, Epoch 3200/4000, Train Loss: 0.37, Val Loss: 1.34, R2: 0.65, RMSE: 1.16, RPD: 1.70
+Fold 3, Epoch 3300/4000, Train Loss: 0.49, Val Loss: 1.24, R2: 0.68, RMSE: 1.11, RPD: 1.76
+Fold 3, Epoch 3400/4000, Train Loss: 0.50, Val Loss: 1.06, R2: 0.72, RMSE: 1.03, RPD: 1.90
+Fold 3, Epoch 3500/4000, Train Loss: 0.48, Val Loss: 0.81, R2: 0.79, RMSE: 0.90, RPD: 2.18
+Updating train SHAP values at epoch 3600
+Updating val SHAP values at epoch 3600
+Fold 3, Epoch 3600/4000, Train Loss: 0.42, Val Loss: 1.01, R2: 0.74, RMSE: 1.01, RPD: 1.95
+Fold 3, Epoch 3700/4000, Train Loss: 0.46, Val Loss: 1.20, R2: 0.69, RMSE: 1.10, RPD: 1.79
+Fold 3, Epoch 3800/4000, Train Loss: 0.44, Val Loss: 1.08, R2: 0.72, RMSE: 1.04, RPD: 1.89
+Fold 3, Epoch 3900/4000, Train Loss: 0.38, Val Loss: 0.87, R2: 0.77, RMSE: 0.93, RPD: 2.10
+Updating train SHAP values at epoch 4000
+Updating val SHAP values at epoch 4000
+Fold 3, Epoch 4000/4000, Train Loss: 0.43, Val Loss: 1.06, R2: 0.72, RMSE: 1.03, RPD: 1.90
+Fold 3, Epoch 4000/4000, Cal Loss: 0.29, R2C: 0.94, RMSEC: 0.54, RPDC: 3.98,Val Loss: 0.68, R2: 0.82, RMSE: 0.82, RPD: 2.38
+
+Training Fold 4/5
+Fold 4, Epoch 100/4000, Train Loss: 3.30, Val Loss: 2.80, R2: 0.34, RMSE: 1.67, RPD: 1.24
+Fold 4, Epoch 200/4000, Train Loss: 2.70, Val Loss: 2.52, R2: 0.41, RMSE: 1.59, RPD: 1.30
+Fold 4, Epoch 300/4000, Train Loss: 2.43, Val Loss: 2.38, R2: 0.44, RMSE: 1.54, RPD: 1.34
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 4, Epoch 400/4000, Train Loss: 2.40, Val Loss: 181.93, R2: -41.60, RMSE: 13.49, RPD: 0.15
+Fold 4, Epoch 500/4000, Train Loss: 3.13, Val Loss: 2.62, R2: 0.39, RMSE: 1.62, RPD: 1.28
+Fold 4, Epoch 600/4000, Train Loss: 2.12, Val Loss: 1.91, R2: 0.55, RMSE: 1.38, RPD: 1.49
+Fold 4, Epoch 700/4000, Train Loss: 1.76, Val Loss: 2.23, R2: 0.48, RMSE: 1.49, RPD: 1.38
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 4, Epoch 800/4000, Train Loss: 1.34, Val Loss: 2.10, R2: 0.51, RMSE: 1.45, RPD: 1.43
+Fold 4, Epoch 900/4000, Train Loss: 1.42, Val Loss: 1.90, R2: 0.55, RMSE: 1.38, RPD: 1.50
+Fold 4, Epoch 1000/4000, Train Loss: 1.42, Val Loss: 1.60, R2: 0.62, RMSE: 1.27, RPD: 1.63
+Fold 4, Epoch 1100/4000, Train Loss: 0.95, Val Loss: 1.53, R2: 0.64, RMSE: 1.24, RPD: 1.67
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 4, Epoch 1200/4000, Train Loss: 0.81, Val Loss: 1.22, R2: 0.71, RMSE: 1.11, RPD: 1.87
+Fold 4, Epoch 1300/4000, Train Loss: 0.95, Val Loss: 1.29, R2: 0.70, RMSE: 1.14, RPD: 1.82
+Fold 4, Epoch 1400/4000, Train Loss: 0.61, Val Loss: 1.16, R2: 0.73, RMSE: 1.08, RPD: 1.92
+Fold 4, Epoch 1500/4000, Train Loss: 0.70, Val Loss: 1.01, R2: 0.76, RMSE: 1.01, RPD: 2.06
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 4, Epoch 1600/4000, Train Loss: 0.54, Val Loss: 1.03, R2: 0.76, RMSE: 1.01, RPD: 2.04
+Fold 4, Epoch 1700/4000, Train Loss: 0.88, Val Loss: 1.06, R2: 0.75, RMSE: 1.03, RPD: 2.00
+Fold 4, Epoch 1800/4000, Train Loss: 0.62, Val Loss: 0.85, R2: 0.80, RMSE: 0.92, RPD: 2.24
+Fold 4, Epoch 1900/4000, Train Loss: 0.64, Val Loss: 0.77, R2: 0.82, RMSE: 0.88, RPD: 2.35
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 4, Epoch 2000/4000, Train Loss: 0.64, Val Loss: 0.91, R2: 0.79, RMSE: 0.95, RPD: 2.17
+Fold 4, Epoch 2100/4000, Train Loss: 0.54, Val Loss: 0.80, R2: 0.81, RMSE: 0.90, RPD: 2.31
+Fold 4, Epoch 2200/4000, Train Loss: 0.59, Val Loss: 0.88, R2: 0.79, RMSE: 0.94, RPD: 2.20
+Fold 4, Epoch 2300/4000, Train Loss: 0.57, Val Loss: 0.73, R2: 0.83, RMSE: 0.85, RPD: 2.42
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 4, Epoch 2400/4000, Train Loss: 0.74, Val Loss: 0.73, R2: 0.83, RMSE: 0.86, RPD: 2.42
+Fold 4, Epoch 2500/4000, Train Loss: 0.45, Val Loss: 0.70, R2: 0.84, RMSE: 0.84, RPD: 2.47
+Fold 4, Epoch 2600/4000, Train Loss: 0.54, Val Loss: 0.73, R2: 0.83, RMSE: 0.85, RPD: 2.42
+Fold 4, Epoch 2700/4000, Train Loss: 0.45, Val Loss: 0.57, R2: 0.87, RMSE: 0.75, RPD: 2.75
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 4, Epoch 2800/4000, Train Loss: 0.40, Val Loss: 0.73, R2: 0.83, RMSE: 0.85, RPD: 2.43
+Fold 4, Epoch 2900/4000, Train Loss: 0.48, Val Loss: 0.73, R2: 0.83, RMSE: 0.86, RPD: 2.41
+Fold 4, Epoch 3000/4000, Train Loss: 0.49, Val Loss: 0.67, R2: 0.84, RMSE: 0.82, RPD: 2.52
+Fold 4, Epoch 3100/4000, Train Loss: 0.49, Val Loss: 0.86, R2: 0.80, RMSE: 0.93, RPD: 2.23
+Updating train SHAP values at epoch 3200
+Updating val SHAP values at epoch 3200
+Fold 4, Epoch 3200/4000, Train Loss: 0.39, Val Loss: 0.55, R2: 0.87, RMSE: 0.74, RPD: 2.78
+Fold 4, Epoch 3300/4000, Train Loss: 0.52, Val Loss: 0.59, R2: 0.86, RMSE: 0.77, RPD: 2.70
+Fold 4, Epoch 3400/4000, Train Loss: 0.34, Val Loss: 0.48, R2: 0.89, RMSE: 0.69, RPD: 3.00
+Fold 4, Epoch 3500/4000, Train Loss: 0.57, Val Loss: 0.52, R2: 0.88, RMSE: 0.72, RPD: 2.88
+Updating train SHAP values at epoch 3600
+Updating val SHAP values at epoch 3600
+Fold 4, Epoch 3600/4000, Train Loss: 0.51, Val Loss: 0.68, R2: 0.84, RMSE: 0.82, RPD: 2.51
+Fold 4, Epoch 3700/4000, Train Loss: 0.45, Val Loss: 0.83, R2: 0.81, RMSE: 0.91, RPD: 2.27
+Fold 4, Epoch 3800/4000, Train Loss: 0.36, Val Loss: 0.66, R2: 0.85, RMSE: 0.81, RPD: 2.54
+Fold 4, Epoch 3900/4000, Train Loss: 0.48, Val Loss: 0.59, R2: 0.86, RMSE: 0.77, RPD: 2.69
+Updating train SHAP values at epoch 4000
+Updating val SHAP values at epoch 4000
+Fold 4, Epoch 4000/4000, Train Loss: 0.37, Val Loss: 0.41, R2: 0.91, RMSE: 0.64, RPD: 3.24
+Fold 4, Epoch 4000/4000, Cal Loss: 0.11, R2C: 0.98, RMSEC: 0.33, RPDC: 6.40,Val Loss: 0.41, R2: 0.91, RMSE: 0.64, RPD: 3.24
+
+Training Fold 5/5
+Fold 5, Epoch 100/4000, Train Loss: 3.25, Val Loss: 2.73, R2: 0.30, RMSE: 1.65, RPD: 1.19
+Fold 5, Epoch 200/4000, Train Loss: 2.59, Val Loss: 2.46, R2: 0.37, RMSE: 1.57, RPD: 1.26
+Fold 5, Epoch 300/4000, Train Loss: 2.63, Val Loss: 2.16, R2: 0.44, RMSE: 1.47, RPD: 1.34
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 5, Epoch 400/4000, Train Loss: 2.36, Val Loss: 162.36, R2: -40.79, RMSE: 12.74, RPD: 0.15
+Fold 5, Epoch 500/4000, Train Loss: 3.03, Val Loss: 2.83, R2: 0.27, RMSE: 1.68, RPD: 1.17
+Fold 5, Epoch 600/4000, Train Loss: 1.91, Val Loss: 2.05, R2: 0.47, RMSE: 1.43, RPD: 1.38
+Fold 5, Epoch 700/4000, Train Loss: 1.85, Val Loss: 1.94, R2: 0.50, RMSE: 1.39, RPD: 1.41
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 5, Epoch 800/4000, Train Loss: 1.39, Val Loss: 1.95, R2: 0.50, RMSE: 1.40, RPD: 1.41
+Fold 5, Epoch 900/4000, Train Loss: 1.35, Val Loss: 2.23, R2: 0.43, RMSE: 1.49, RPD: 1.32
+Fold 5, Epoch 1000/4000, Train Loss: 1.07, Val Loss: 1.52, R2: 0.61, RMSE: 1.23, RPD: 1.60
+Fold 5, Epoch 1100/4000, Train Loss: 0.97, Val Loss: 1.72, R2: 0.56, RMSE: 1.31, RPD: 1.50
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 5, Epoch 1200/4000, Train Loss: 0.88, Val Loss: 1.72, R2: 0.56, RMSE: 1.31, RPD: 1.50
+Fold 5, Epoch 1300/4000, Train Loss: 0.68, Val Loss: 1.68, R2: 0.57, RMSE: 1.30, RPD: 1.52
+Fold 5, Epoch 1400/4000, Train Loss: 0.61, Val Loss: 1.46, R2: 0.62, RMSE: 1.21, RPD: 1.63
+Fold 5, Epoch 1500/4000, Train Loss: 0.55, Val Loss: 1.38, R2: 0.64, RMSE: 1.18, RPD: 1.68
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 5, Epoch 1600/4000, Train Loss: 0.68, Val Loss: 1.38, R2: 0.65, RMSE: 1.17, RPD: 1.68
+Fold 5, Epoch 1700/4000, Train Loss: 0.64, Val Loss: 1.49, R2: 0.62, RMSE: 1.22, RPD: 1.62
+Fold 5, Epoch 1800/4000, Train Loss: 0.55, Val Loss: 1.34, R2: 0.66, RMSE: 1.16, RPD: 1.71
+Fold 5, Epoch 1900/4000, Train Loss: 0.48, Val Loss: 1.15, R2: 0.71, RMSE: 1.07, RPD: 1.84
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 5, Epoch 2000/4000, Train Loss: 0.57, Val Loss: 1.17, R2: 0.70, RMSE: 1.08, RPD: 1.82
+Fold 5, Epoch 2100/4000, Train Loss: 0.41, Val Loss: 0.99, R2: 0.74, RMSE: 1.00, RPD: 1.98
+Fold 5, Epoch 2200/4000, Train Loss: 0.48, Val Loss: 1.18, R2: 0.70, RMSE: 1.09, RPD: 1.81
+Fold 5, Epoch 2300/4000, Train Loss: 0.42, Val Loss: 1.18, R2: 0.70, RMSE: 1.08, RPD: 1.82
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 5, Epoch 2400/4000, Train Loss: 0.47, Val Loss: 1.21, R2: 0.69, RMSE: 1.10, RPD: 1.79
+Fold 5, Epoch 2500/4000, Train Loss: 0.46, Val Loss: 1.26, R2: 0.68, RMSE: 1.12, RPD: 1.76
+Fold 5, Epoch 2600/4000, Train Loss: 0.41, Val Loss: 1.24, R2: 0.68, RMSE: 1.11, RPD: 1.77
+Fold 5, Epoch 2700/4000, Train Loss: 0.40, Val Loss: 1.11, R2: 0.71, RMSE: 1.05, RPD: 1.87
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 5, Epoch 2800/4000, Train Loss: 0.44, Val Loss: 1.22, R2: 0.69, RMSE: 1.11, RPD: 1.78
+Fold 5, Epoch 2900/4000, Train Loss: 0.33, Val Loss: 1.10, R2: 0.72, RMSE: 1.05, RPD: 1.88
+Fold 5, Epoch 3000/4000, Train Loss: 0.55, Val Loss: 1.28, R2: 0.67, RMSE: 1.13, RPD: 1.74
+Fold 5, Epoch 3100/4000, Train Loss: 0.47, Val Loss: 1.04, R2: 0.73, RMSE: 1.02, RPD: 1.94
+Updating train SHAP values at epoch 3200
+Updating val SHAP values at epoch 3200
+Fold 5, Epoch 3200/4000, Train Loss: 0.34, Val Loss: 0.98, R2: 0.75, RMSE: 0.99, RPD: 1.99
+Fold 5, Epoch 3300/4000, Train Loss: 0.41, Val Loss: 0.96, R2: 0.75, RMSE: 0.98, RPD: 2.01
+Fold 5, Epoch 3400/4000, Train Loss: 0.36, Val Loss: 1.01, R2: 0.74, RMSE: 1.00, RPD: 1.96
+Fold 5, Epoch 3500/4000, Train Loss: 0.45, Val Loss: 1.21, R2: 0.69, RMSE: 1.10, RPD: 1.79
+Updating train SHAP values at epoch 3600
+Updating val SHAP values at epoch 3600
+Fold 5, Epoch 3600/4000, Train Loss: 0.38, Val Loss: 1.06, R2: 0.73, RMSE: 1.03, RPD: 1.92
+Fold 5, Epoch 3700/4000, Train Loss: 0.37, Val Loss: 1.06, R2: 0.73, RMSE: 1.03, RPD: 1.91
+Fold 5, Epoch 3800/4000, Train Loss: 0.34, Val Loss: 0.96, R2: 0.75, RMSE: 0.98, RPD: 2.01
+Fold 5, Epoch 3900/4000, Train Loss: 0.37, Val Loss: 1.10, R2: 0.72, RMSE: 1.05, RPD: 1.88
+Updating train SHAP values at epoch 4000
+Updating val SHAP values at epoch 4000
+Fold 5, Epoch 4000/4000, Train Loss: 0.38, Val Loss: 1.17, R2: 0.70, RMSE: 1.08, RPD: 1.82
+Fold 5, Epoch 4000/4000, Cal Loss: 0.09, R2C: 0.98, RMSEC: 0.30, RPDC: 7.19,Val Loss: 0.80, R2: 0.79, RMSE: 0.89, RPD: 2.21
+
+Cross-validation Results:
+Average Val Loss: 0.57 ± 0.16
+Average R²: 0.87 ± 0.05
+Average RMSE: 0.75 ± 0.11
+Average RPD: 2.88 ± 0.56
+
+
+DATA2
+Training Fold 1/5
+Fold 1, Epoch 100/4000, Train Loss: 0.40, Val Loss: 0.52, R2: 0.54, RMSE: 0.72, RPD: 1.47
+Fold 1, Epoch 200/4000, Train Loss: 0.22, Val Loss: 0.40, R2: 0.64, RMSE: 0.63, RPD: 1.67
+Fold 1, Epoch 300/4000, Train Loss: 0.21, Val Loss: 0.34, R2: 0.69, RMSE: 0.59, RPD: 1.80
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 1, Epoch 400/4000, Train Loss: 0.16, Val Loss: 57.00, R2: -50.04, RMSE: 7.55, RPD: 0.14
+Fold 1, Epoch 500/4000, Train Loss: 0.32, Val Loss: 0.22, R2: 0.80, RMSE: 0.47, RPD: 2.23
+Fold 1, Epoch 600/4000, Train Loss: 0.25, Val Loss: 0.24, R2: 0.79, RMSE: 0.49, RPD: 2.16
+Fold 1, Epoch 700/4000, Train Loss: 0.16, Val Loss: 0.23, R2: 0.79, RMSE: 0.48, RPD: 2.18
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 1, Epoch 800/4000, Train Loss: 0.15, Val Loss: 0.24, R2: 0.78, RMSE: 0.49, RPD: 2.14
+Fold 1, Epoch 900/4000, Train Loss: 0.17, Val Loss: 0.24, R2: 0.79, RMSE: 0.49, RPD: 2.16
+Fold 1, Epoch 1000/4000, Train Loss: 0.14, Val Loss: 0.25, R2: 0.78, RMSE: 0.50, RPD: 2.13
+Fold 1, Epoch 1100/4000, Train Loss: 0.17, Val Loss: 0.24, R2: 0.79, RMSE: 0.49, RPD: 2.16
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 1, Epoch 1200/4000, Train Loss: 0.12, Val Loss: 0.22, R2: 0.80, RMSE: 0.47, RPD: 2.25
+Fold 1, Epoch 1300/4000, Train Loss: 0.12, Val Loss: 0.23, R2: 0.79, RMSE: 0.48, RPD: 2.18
+Fold 1, Epoch 1400/4000, Train Loss: 0.13, Val Loss: 0.24, R2: 0.79, RMSE: 0.49, RPD: 2.17
+Fold 1, Epoch 1500/4000, Train Loss: 0.10, Val Loss: 0.26, R2: 0.77, RMSE: 0.51, RPD: 2.08
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 1, Epoch 1600/4000, Train Loss: 0.13, Val Loss: 0.24, R2: 0.78, RMSE: 0.49, RPD: 2.15
+Fold 1, Epoch 1700/4000, Train Loss: 0.11, Val Loss: 0.25, R2: 0.78, RMSE: 0.50, RPD: 2.12
+Fold 1, Epoch 1800/4000, Train Loss: 0.11, Val Loss: 0.22, R2: 0.80, RMSE: 0.47, RPD: 2.26
+Fold 1, Epoch 1900/4000, Train Loss: 0.10, Val Loss: 0.26, R2: 0.77, RMSE: 0.51, RPD: 2.08
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 1, Epoch 2000/4000, Train Loss: 0.13, Val Loss: 0.24, R2: 0.78, RMSE: 0.49, RPD: 2.14
+Fold 1, Epoch 2100/4000, Train Loss: 0.10, Val Loss: 0.25, R2: 0.77, RMSE: 0.50, RPD: 2.10
+Fold 1, Epoch 2200/4000, Train Loss: 0.13, Val Loss: 0.25, R2: 0.78, RMSE: 0.50, RPD: 2.12
+Fold 1, Epoch 2300/4000, Train Loss: 0.13, Val Loss: 0.27, R2: 0.76, RMSE: 0.52, RPD: 2.04
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 1, Epoch 2400/4000, Train Loss: 0.09, Val Loss: 0.28, R2: 0.75, RMSE: 0.53, RPD: 2.00
+Fold 1, Epoch 2500/4000, Train Loss: 0.09, Val Loss: 0.22, R2: 0.80, RMSE: 0.47, RPD: 2.24
+Fold 1, Epoch 2600/4000, Train Loss: 0.13, Val Loss: 0.27, R2: 0.76, RMSE: 0.51, RPD: 2.05
+Fold 1, Epoch 2700/4000, Train Loss: 0.12, Val Loss: 0.31, R2: 0.73, RMSE: 0.55, RPD: 1.91
+Early stopping
+Fold 1, Epoch 2713/4000, Cal Loss: 0.01, R2C: 0.99, RMSEC: 0.10, RPDC: 11.33,Val Loss: 0.19, R2: 0.83, RMSE: 0.44, RPD: 2.43
+
+Training Fold 2/5
+Fold 2, Epoch 100/4000, Train Loss: 0.40, Val Loss: 0.61, R2: 0.59, RMSE: 0.78, RPD: 1.56
+Fold 2, Epoch 200/4000, Train Loss: 0.19, Val Loss: 0.47, R2: 0.68, RMSE: 0.69, RPD: 1.77
+Fold 2, Epoch 300/4000, Train Loss: 0.23, Val Loss: 0.48, R2: 0.67, RMSE: 0.70, RPD: 1.75
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 2, Epoch 400/4000, Train Loss: 0.16, Val Loss: 53.38, R2: -35.12, RMSE: 7.31, RPD: 0.17
+Fold 2, Epoch 500/4000, Train Loss: 0.34, Val Loss: 0.51, R2: 0.65, RMSE: 0.71, RPD: 1.70
+Fold 2, Epoch 600/4000, Train Loss: 0.24, Val Loss: 0.43, R2: 0.71, RMSE: 0.65, RPD: 1.86
+Fold 2, Epoch 700/4000, Train Loss: 0.18, Val Loss: 0.45, R2: 0.70, RMSE: 0.67, RPD: 1.81
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 2, Epoch 800/4000, Train Loss: 0.17, Val Loss: 0.48, R2: 0.68, RMSE: 0.69, RPD: 1.76
+Fold 2, Epoch 900/4000, Train Loss: 0.16, Val Loss: 0.43, R2: 0.71, RMSE: 0.65, RPD: 1.86
+Fold 2, Epoch 1000/4000, Train Loss: 0.13, Val Loss: 0.45, R2: 0.70, RMSE: 0.67, RPD: 1.81
+Fold 2, Epoch 1100/4000, Train Loss: 0.09, Val Loss: 0.42, R2: 0.72, RMSE: 0.64, RPD: 1.89
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 2, Epoch 1200/4000, Train Loss: 0.08, Val Loss: 0.41, R2: 0.72, RMSE: 0.64, RPD: 1.89
+Fold 2, Epoch 1300/4000, Train Loss: 0.15, Val Loss: 0.45, R2: 0.70, RMSE: 0.67, RPD: 1.81
+Fold 2, Epoch 1400/4000, Train Loss: 0.14, Val Loss: 0.43, R2: 0.71, RMSE: 0.66, RPD: 1.85
+Fold 2, Epoch 1500/4000, Train Loss: 0.09, Val Loss: 0.37, R2: 0.75, RMSE: 0.61, RPD: 2.00
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 2, Epoch 1600/4000, Train Loss: 0.12, Val Loss: 0.42, R2: 0.72, RMSE: 0.65, RPD: 1.88
+Fold 2, Epoch 1700/4000, Train Loss: 0.12, Val Loss: 0.40, R2: 0.73, RMSE: 0.63, RPD: 1.93
+Fold 2, Epoch 1800/4000, Train Loss: 0.09, Val Loss: 0.39, R2: 0.74, RMSE: 0.62, RPD: 1.95
+Fold 2, Epoch 1900/4000, Train Loss: 0.12, Val Loss: 0.43, R2: 0.71, RMSE: 0.65, RPD: 1.86
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 2, Epoch 2000/4000, Train Loss: 0.10, Val Loss: 0.39, R2: 0.74, RMSE: 0.63, RPD: 1.94
+Fold 2, Epoch 2100/4000, Train Loss: 0.08, Val Loss: 0.41, R2: 0.72, RMSE: 0.64, RPD: 1.90
+Fold 2, Epoch 2200/4000, Train Loss: 0.11, Val Loss: 0.39, R2: 0.74, RMSE: 0.62, RPD: 1.95
+Fold 2, Epoch 2300/4000, Train Loss: 0.12, Val Loss: 0.39, R2: 0.73, RMSE: 0.63, RPD: 1.94
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 2, Epoch 2400/4000, Train Loss: 0.10, Val Loss: 0.39, R2: 0.74, RMSE: 0.63, RPD: 1.95
+Fold 2, Epoch 2500/4000, Train Loss: 0.10, Val Loss: 0.40, R2: 0.73, RMSE: 0.63, RPD: 1.92
+Fold 2, Epoch 2600/4000, Train Loss: 0.10, Val Loss: 0.37, R2: 0.75, RMSE: 0.61, RPD: 2.00
+Fold 2, Epoch 2700/4000, Train Loss: 0.12, Val Loss: 0.38, R2: 0.75, RMSE: 0.61, RPD: 1.98
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 2, Epoch 2800/4000, Train Loss: 0.14, Val Loss: 0.40, R2: 0.73, RMSE: 0.63, RPD: 1.92
+Fold 2, Epoch 2900/4000, Train Loss: 0.08, Val Loss: 0.40, R2: 0.73, RMSE: 0.63, RPD: 1.92
+Fold 2, Epoch 3000/4000, Train Loss: 0.13, Val Loss: 0.38, R2: 0.74, RMSE: 0.62, RPD: 1.97
+Fold 2, Epoch 3100/4000, Train Loss: 0.11, Val Loss: 0.40, R2: 0.73, RMSE: 0.63, RPD: 1.92
+Updating train SHAP values at epoch 3200
+Updating val SHAP values at epoch 3200
+Fold 2, Epoch 3200/4000, Train Loss: 0.12, Val Loss: 0.37, R2: 0.75, RMSE: 0.61, RPD: 2.00
+Fold 2, Epoch 3300/4000, Train Loss: 0.10, Val Loss: 0.39, R2: 0.73, RMSE: 0.63, RPD: 1.94
+Fold 2, Epoch 3400/4000, Train Loss: 0.11, Val Loss: 0.37, R2: 0.75, RMSE: 0.61, RPD: 2.00
+Fold 2, Epoch 3500/4000, Train Loss: 0.09, Val Loss: 0.36, R2: 0.75, RMSE: 0.60, RPD: 2.01
+Updating train SHAP values at epoch 3600
+Updating val SHAP values at epoch 3600
+Fold 2, Epoch 3600/4000, Train Loss: 0.13, Val Loss: 0.36, R2: 0.76, RMSE: 0.60, RPD: 2.02
+Fold 2, Epoch 3700/4000, Train Loss: 0.09, Val Loss: 0.38, R2: 0.74, RMSE: 0.62, RPD: 1.97
+Fold 2, Epoch 3800/4000, Train Loss: 0.13, Val Loss: 0.39, R2: 0.73, RMSE: 0.63, RPD: 1.94
+Fold 2, Epoch 3900/4000, Train Loss: 0.11, Val Loss: 0.40, R2: 0.73, RMSE: 0.63, RPD: 1.91
+Updating train SHAP values at epoch 4000
+Updating val SHAP values at epoch 4000
+Fold 2, Epoch 4000/4000, Train Loss: 0.09, Val Loss: 0.39, R2: 0.74, RMSE: 0.63, RPD: 1.95
+Fold 2, Epoch 4000/4000, Cal Loss: 0.01, R2C: 0.99, RMSEC: 0.12, RPDC: 9.29,Val Loss: 0.33, R2: 0.78, RMSE: 0.58, RPD: 2.11
+
+Training Fold 3/5
+Fold 3, Epoch 100/4000, Train Loss: 0.41, Val Loss: 0.54, R2: 0.54, RMSE: 0.74, RPD: 1.47
+Fold 3, Epoch 200/4000, Train Loss: 0.27, Val Loss: 0.44, R2: 0.62, RMSE: 0.67, RPD: 1.63
+Fold 3, Epoch 300/4000, Train Loss: 0.21, Val Loss: 0.44, R2: 0.62, RMSE: 0.67, RPD: 1.63
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 3, Epoch 400/4000, Train Loss: 0.15, Val Loss: 56.16, R2: -46.69, RMSE: 7.49, RPD: 0.14
+Fold 3, Epoch 500/4000, Train Loss: 0.16, Val Loss: 0.34, R2: 0.71, RMSE: 0.59, RPD: 1.85
+Fold 3, Epoch 600/4000, Train Loss: 0.20, Val Loss: 0.29, R2: 0.75, RMSE: 0.54, RPD: 2.01
+Fold 3, Epoch 700/4000, Train Loss: 0.15, Val Loss: 0.28, R2: 0.76, RMSE: 0.53, RPD: 2.04
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 3, Epoch 800/4000, Train Loss: 0.18, Val Loss: 0.25, R2: 0.79, RMSE: 0.50, RPD: 2.19
+Fold 3, Epoch 900/4000, Train Loss: 0.12, Val Loss: 0.27, R2: 0.77, RMSE: 0.52, RPD: 2.08
+Fold 3, Epoch 1000/4000, Train Loss: 0.11, Val Loss: 0.28, R2: 0.77, RMSE: 0.53, RPD: 2.06
+Fold 3, Epoch 1100/4000, Train Loss: 0.13, Val Loss: 0.29, R2: 0.75, RMSE: 0.54, RPD: 2.00
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 3, Epoch 1200/4000, Train Loss: 0.10, Val Loss: 0.29, R2: 0.75, RMSE: 0.54, RPD: 2.01
+Fold 3, Epoch 1300/4000, Train Loss: 0.12, Val Loss: 0.25, R2: 0.78, RMSE: 0.50, RPD: 2.15
+Fold 3, Epoch 1400/4000, Train Loss: 0.07, Val Loss: 0.25, R2: 0.78, RMSE: 0.50, RPD: 2.15
+Fold 3, Epoch 1500/4000, Train Loss: 0.10, Val Loss: 0.27, R2: 0.77, RMSE: 0.51, RPD: 2.11
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 3, Epoch 1600/4000, Train Loss: 0.11, Val Loss: 0.29, R2: 0.76, RMSE: 0.54, RPD: 2.03
+Fold 3, Epoch 1700/4000, Train Loss: 0.12, Val Loss: 0.24, R2: 0.79, RMSE: 0.49, RPD: 2.20
+Fold 3, Epoch 1800/4000, Train Loss: 0.10, Val Loss: 0.26, R2: 0.78, RMSE: 0.51, RPD: 2.14
+Fold 3, Epoch 1900/4000, Train Loss: 0.12, Val Loss: 0.27, R2: 0.77, RMSE: 0.52, RPD: 2.09
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 3, Epoch 2000/4000, Train Loss: 0.08, Val Loss: 0.29, R2: 0.75, RMSE: 0.54, RPD: 2.01
+Fold 3, Epoch 2100/4000, Train Loss: 0.09, Val Loss: 0.30, R2: 0.75, RMSE: 0.55, RPD: 1.99
+Fold 3, Epoch 2200/4000, Train Loss: 0.09, Val Loss: 0.31, R2: 0.73, RMSE: 0.56, RPD: 1.94
+Fold 3, Epoch 2300/4000, Train Loss: 0.10, Val Loss: 0.30, R2: 0.75, RMSE: 0.55, RPD: 1.99
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 3, Epoch 2400/4000, Train Loss: 0.11, Val Loss: 0.31, R2: 0.74, RMSE: 0.55, RPD: 1.96
+Fold 3, Epoch 2500/4000, Train Loss: 0.07, Val Loss: 0.29, R2: 0.76, RMSE: 0.54, RPD: 2.02
+Fold 3, Epoch 2600/4000, Train Loss: 0.12, Val Loss: 0.30, R2: 0.75, RMSE: 0.54, RPD: 2.00
+Fold 3, Epoch 2700/4000, Train Loss: 0.10, Val Loss: 0.26, R2: 0.78, RMSE: 0.51, RPD: 2.13
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 3, Epoch 2800/4000, Train Loss: 0.13, Val Loss: 0.31, R2: 0.74, RMSE: 0.56, RPD: 1.95
+Fold 3, Epoch 2900/4000, Train Loss: 0.11, Val Loss: 0.27, R2: 0.77, RMSE: 0.52, RPD: 2.07
+Fold 3, Epoch 3000/4000, Train Loss: 0.11, Val Loss: 0.32, R2: 0.73, RMSE: 0.57, RPD: 1.92
+Fold 3, Epoch 3100/4000, Train Loss: 0.10, Val Loss: 0.29, R2: 0.75, RMSE: 0.54, RPD: 2.02
+Updating train SHAP values at epoch 3200
+Updating val SHAP values at epoch 3200
+Fold 3, Epoch 3200/4000, Train Loss: 0.10, Val Loss: 0.28, R2: 0.76, RMSE: 0.53, RPD: 2.06
+Early stopping
+Fold 3, Epoch 3228/4000, Cal Loss: 0.01, R2C: 0.99, RMSEC: 0.08, RPDC: 13.76,Val Loss: 0.21, R2: 0.82, RMSE: 0.46, RPD: 2.37
+
+Training Fold 4/5
+Fold 4, Epoch 100/4000, Train Loss: 0.38, Val Loss: 0.29, R2: 0.76, RMSE: 0.54, RPD: 2.05
+Fold 4, Epoch 200/4000, Train Loss: 0.25, Val Loss: 0.26, R2: 0.79, RMSE: 0.51, RPD: 2.20
+Fold 4, Epoch 300/4000, Train Loss: 0.25, Val Loss: 0.29, R2: 0.77, RMSE: 0.54, RPD: 2.07
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 4, Epoch 400/4000, Train Loss: 0.13, Val Loss: 58.32, R2: -45.89, RMSE: 7.64, RPD: 0.15
+Fold 4, Epoch 500/4000, Train Loss: 0.23, Val Loss: 0.18, R2: 0.86, RMSE: 0.42, RPD: 2.63
+Fold 4, Epoch 600/4000, Train Loss: 0.18, Val Loss: 0.21, R2: 0.83, RMSE: 0.46, RPD: 2.42
+Fold 4, Epoch 700/4000, Train Loss: 0.15, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.80
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 4, Epoch 800/4000, Train Loss: 0.17, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.80
+Fold 4, Epoch 900/4000, Train Loss: 0.13, Val Loss: 0.14, R2: 0.89, RMSE: 0.38, RPD: 2.97
+Fold 4, Epoch 1000/4000, Train Loss: 0.12, Val Loss: 0.17, R2: 0.86, RMSE: 0.41, RPD: 2.72
+Fold 4, Epoch 1100/4000, Train Loss: 0.13, Val Loss: 0.17, R2: 0.86, RMSE: 0.41, RPD: 2.70
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 4, Epoch 1200/4000, Train Loss: 0.13, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.79
+Fold 4, Epoch 1300/4000, Train Loss: 0.12, Val Loss: 0.15, R2: 0.88, RMSE: 0.39, RPD: 2.89
+Fold 4, Epoch 1400/4000, Train Loss: 0.11, Val Loss: 0.17, R2: 0.86, RMSE: 0.42, RPD: 2.69
+Fold 4, Epoch 1500/4000, Train Loss: 0.12, Val Loss: 0.15, R2: 0.88, RMSE: 0.39, RPD: 2.85
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 4, Epoch 1600/4000, Train Loss: 0.11, Val Loss: 0.15, R2: 0.88, RMSE: 0.39, RPD: 2.85
+Fold 4, Epoch 1700/4000, Train Loss: 0.14, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.81
+Fold 4, Epoch 1800/4000, Train Loss: 0.13, Val Loss: 0.19, R2: 0.85, RMSE: 0.44, RPD: 2.54
+Fold 4, Epoch 1900/4000, Train Loss: 0.15, Val Loss: 0.17, R2: 0.86, RMSE: 0.41, RPD: 2.71
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 4, Epoch 2000/4000, Train Loss: 0.13, Val Loss: 0.18, R2: 0.85, RMSE: 0.43, RPD: 2.62
+Fold 4, Epoch 2100/4000, Train Loss: 0.09, Val Loss: 0.17, R2: 0.86, RMSE: 0.41, RPD: 2.71
+Fold 4, Epoch 2200/4000, Train Loss: 0.13, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.80
+Fold 4, Epoch 2300/4000, Train Loss: 0.12, Val Loss: 0.18, R2: 0.85, RMSE: 0.43, RPD: 2.60
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 4, Epoch 2400/4000, Train Loss: 0.11, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.76
+Fold 4, Epoch 2500/4000, Train Loss: 0.11, Val Loss: 0.17, R2: 0.87, RMSE: 0.41, RPD: 2.73
+Fold 4, Epoch 2600/4000, Train Loss: 0.12, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.82
+Fold 4, Epoch 2700/4000, Train Loss: 0.10, Val Loss: 0.15, R2: 0.88, RMSE: 0.38, RPD: 2.92
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 4, Epoch 2800/4000, Train Loss: 0.13, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.75
+Fold 4, Epoch 2900/4000, Train Loss: 0.12, Val Loss: 0.17, R2: 0.87, RMSE: 0.41, RPD: 2.73
+Fold 4, Epoch 3000/4000, Train Loss: 0.11, Val Loss: 0.15, R2: 0.88, RMSE: 0.39, RPD: 2.86
+Fold 4, Epoch 3100/4000, Train Loss: 0.08, Val Loss: 0.17, R2: 0.87, RMSE: 0.41, RPD: 2.72
+Updating train SHAP values at epoch 3200
+Updating val SHAP values at epoch 3200
+Fold 4, Epoch 3200/4000, Train Loss: 0.11, Val Loss: 0.18, R2: 0.86, RMSE: 0.42, RPD: 2.65
+Fold 4, Epoch 3300/4000, Train Loss: 0.09, Val Loss: 0.15, R2: 0.88, RMSE: 0.38, RPD: 2.92
+Fold 4, Epoch 3400/4000, Train Loss: 0.12, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.79
+Fold 4, Epoch 3500/4000, Train Loss: 0.11, Val Loss: 0.16, R2: 0.87, RMSE: 0.40, RPD: 2.79
+Updating train SHAP values at epoch 3600
+Updating val SHAP values at epoch 3600
+Fold 4, Epoch 3600/4000, Train Loss: 0.13, Val Loss: 0.17, R2: 0.86, RMSE: 0.42, RPD: 2.68
+Fold 4, Epoch 3700/4000, Train Loss: 0.10, Val Loss: 0.19, R2: 0.85, RMSE: 0.43, RPD: 2.57
+Fold 4, Epoch 3800/4000, Train Loss: 0.09, Val Loss: 0.16, R2: 0.87, RMSE: 0.39, RPD: 2.83
+Fold 4, Epoch 3900/4000, Train Loss: 0.11, Val Loss: 0.18, R2: 0.85, RMSE: 0.43, RPD: 2.60
+Early stopping
+Fold 4, Epoch 3974/4000, Cal Loss: 0.01, R2C: 0.99, RMSEC: 0.10, RPDC: 11.38,Val Loss: 0.13, R2: 0.90, RMSE: 0.36, RPD: 3.11
+
+Training Fold 5/5
+Fold 5, Epoch 100/4000, Train Loss: 0.29, Val Loss: 0.22, R2: 0.83, RMSE: 0.47, RPD: 2.40
+Fold 5, Epoch 200/4000, Train Loss: 0.20, Val Loss: 0.26, R2: 0.80, RMSE: 0.51, RPD: 2.23
+Fold 5, Epoch 300/4000, Train Loss: 0.19, Val Loss: 0.26, R2: 0.80, RMSE: 0.51, RPD: 2.22
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 5, Epoch 400/4000, Train Loss: 0.24, Val Loss: 62.31, R2: -47.78, RMSE: 7.89, RPD: 0.14
+Fold 5, Epoch 500/4000, Train Loss: 0.26, Val Loss: 0.12, R2: 0.90, RMSE: 0.35, RPD: 3.21
+Fold 5, Epoch 600/4000, Train Loss: 0.22, Val Loss: 0.18, R2: 0.86, RMSE: 0.43, RPD: 2.65
+Fold 5, Epoch 700/4000, Train Loss: 0.17, Val Loss: 0.14, R2: 0.89, RMSE: 0.37, RPD: 3.04
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 5, Epoch 800/4000, Train Loss: 0.12, Val Loss: 0.10, R2: 0.92, RMSE: 0.32, RPD: 3.50
+Fold 5, Epoch 900/4000, Train Loss: 0.18, Val Loss: 0.13, R2: 0.90, RMSE: 0.35, RPD: 3.19
+Fold 5, Epoch 1000/4000, Train Loss: 0.13, Val Loss: 0.11, R2: 0.91, RMSE: 0.34, RPD: 3.37
+Fold 5, Epoch 1100/4000, Train Loss: 0.17, Val Loss: 0.11, R2: 0.91, RMSE: 0.34, RPD: 3.36
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 5, Epoch 1200/4000, Train Loss: 0.11, Val Loss: 0.14, R2: 0.89, RMSE: 0.38, RPD: 3.01
+Fold 5, Epoch 1300/4000, Train Loss: 0.13, Val Loss: 0.12, R2: 0.90, RMSE: 0.35, RPD: 3.20
+Fold 5, Epoch 1400/4000, Train Loss: 0.14, Val Loss: 0.13, R2: 0.90, RMSE: 0.36, RPD: 3.16
+Fold 5, Epoch 1500/4000, Train Loss: 0.11, Val Loss: 0.11, R2: 0.91, RMSE: 0.33, RPD: 3.42
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 5, Epoch 1600/4000, Train Loss: 0.14, Val Loss: 0.14, R2: 0.89, RMSE: 0.37, RPD: 3.08
+Fold 5, Epoch 1700/4000, Train Loss: 0.12, Val Loss: 0.11, R2: 0.91, RMSE: 0.34, RPD: 3.34
+Fold 5, Epoch 1800/4000, Train Loss: 0.12, Val Loss: 0.13, R2: 0.90, RMSE: 0.36, RPD: 3.15
+Fold 5, Epoch 1900/4000, Train Loss: 0.15, Val Loss: 0.14, R2: 0.89, RMSE: 0.37, RPD: 3.02
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 5, Epoch 2000/4000, Train Loss: 0.14, Val Loss: 0.13, R2: 0.90, RMSE: 0.35, RPD: 3.18
+Fold 5, Epoch 2100/4000, Train Loss: 0.13, Val Loss: 0.12, R2: 0.90, RMSE: 0.35, RPD: 3.21
+Fold 5, Epoch 2200/4000, Train Loss: 0.14, Val Loss: 0.13, R2: 0.90, RMSE: 0.36, RPD: 3.17
+Fold 5, Epoch 2300/4000, Train Loss: 0.15, Val Loss: 0.14, R2: 0.89, RMSE: 0.38, RPD: 2.97
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 5, Epoch 2400/4000, Train Loss: 0.14, Val Loss: 0.13, R2: 0.90, RMSE: 0.36, RPD: 3.12
+Fold 5, Epoch 2500/4000, Train Loss: 0.09, Val Loss: 0.13, R2: 0.90, RMSE: 0.36, RPD: 3.14
+Fold 5, Epoch 2600/4000, Train Loss: 0.14, Val Loss: 0.13, R2: 0.90, RMSE: 0.36, RPD: 3.14
+Fold 5, Epoch 2700/4000, Train Loss: 0.11, Val Loss: 0.14, R2: 0.89, RMSE: 0.38, RPD: 3.00
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 5, Epoch 2800/4000, Train Loss: 0.15, Val Loss: 0.13, R2: 0.90, RMSE: 0.36, RPD: 3.16
+Fold 5, Epoch 2900/4000, Train Loss: 0.16, Val Loss: 0.14, R2: 0.89, RMSE: 0.38, RPD: 2.98
+Early stopping
+Fold 5, Epoch 2968/4000, Cal Loss: 0.01, R2C: 0.99, RMSEC: 0.10, RPDC: 11.80,Val Loss: 0.08, R2: 0.93, RMSE: 0.29, RPD: 3.89
+
+Cross-validation Results:
+Average Val Loss: 0.19 ± 0.08
+Average R²: 0.85 ± 0.06
+Average RMSE: 0.42 ± 0.10
+Average RPD: 2.78 ± 0.64
+
+DATA3
+Training Fold 1/5
+Fold 1, Epoch 100/4000, Train Loss: 6.04, Val Loss: 8.35, R2: 0.53, RMSE: 2.89, RPD: 1.46
+Fold 1, Epoch 200/4000, Train Loss: 4.56, Val Loss: 7.04, R2: 0.60, RMSE: 2.65, RPD: 1.59
+Fold 1, Epoch 300/4000, Train Loss: 2.20, Val Loss: 6.50, R2: 0.63, RMSE: 2.55, RPD: 1.65
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 1, Epoch 400/4000, Train Loss: 1.41, Val Loss: 79.77, R2: -3.50, RMSE: 8.93, RPD: 0.47
+Fold 1, Epoch 500/4000, Train Loss: 1.20, Val Loss: 7.02, R2: 0.60, RMSE: 2.65, RPD: 1.59
+Fold 1, Epoch 600/4000, Train Loss: 0.69, Val Loss: 6.67, R2: 0.62, RMSE: 2.58, RPD: 1.63
+Fold 1, Epoch 700/4000, Train Loss: 0.54, Val Loss: 6.72, R2: 0.62, RMSE: 2.59, RPD: 1.62
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 1, Epoch 800/4000, Train Loss: 0.40, Val Loss: 6.19, R2: 0.65, RMSE: 2.49, RPD: 1.69
+Fold 1, Epoch 900/4000, Train Loss: 0.45, Val Loss: 6.07, R2: 0.66, RMSE: 2.46, RPD: 1.71
+Fold 1, Epoch 1000/4000, Train Loss: 0.31, Val Loss: 6.24, R2: 0.65, RMSE: 2.50, RPD: 1.68
+Fold 1, Epoch 1100/4000, Train Loss: 0.25, Val Loss: 6.31, R2: 0.64, RMSE: 2.51, RPD: 1.68
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 1, Epoch 1200/4000, Train Loss: 0.28, Val Loss: 6.13, R2: 0.65, RMSE: 2.48, RPD: 1.70
+Fold 1, Epoch 1300/4000, Train Loss: 0.27, Val Loss: 6.16, R2: 0.65, RMSE: 2.48, RPD: 1.69
+Fold 1, Epoch 1400/4000, Train Loss: 0.21, Val Loss: 6.10, R2: 0.66, RMSE: 2.47, RPD: 1.70
+Fold 1, Epoch 1500/4000, Train Loss: 0.26, Val Loss: 6.32, R2: 0.64, RMSE: 2.51, RPD: 1.67
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 1, Epoch 1600/4000, Train Loss: 0.25, Val Loss: 6.01, R2: 0.66, RMSE: 2.45, RPD: 1.72
+Fold 1, Epoch 1700/4000, Train Loss: 0.21, Val Loss: 6.08, R2: 0.66, RMSE: 2.47, RPD: 1.71
+Fold 1, Epoch 1800/4000, Train Loss: 0.22, Val Loss: 5.90, R2: 0.67, RMSE: 2.43, RPD: 1.73
+Fold 1, Epoch 1900/4000, Train Loss: 0.23, Val Loss: 6.26, R2: 0.65, RMSE: 2.50, RPD: 1.68
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 1, Epoch 2000/4000, Train Loss: 0.22, Val Loss: 5.82, R2: 0.67, RMSE: 2.41, RPD: 1.75
+Fold 1, Epoch 2100/4000, Train Loss: 0.21, Val Loss: 6.18, R2: 0.65, RMSE: 2.49, RPD: 1.69
+Fold 1, Epoch 2200/4000, Train Loss: 0.21, Val Loss: 5.71, R2: 0.68, RMSE: 2.39, RPD: 1.76
+Fold 1, Epoch 2300/4000, Train Loss: 0.22, Val Loss: 5.85, R2: 0.67, RMSE: 2.42, RPD: 1.74
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 1, Epoch 2400/4000, Train Loss: 0.19, Val Loss: 6.02, R2: 0.66, RMSE: 2.45, RPD: 1.72
+Fold 1, Epoch 2500/4000, Train Loss: 0.18, Val Loss: 6.08, R2: 0.66, RMSE: 2.47, RPD: 1.71
+Fold 1, Epoch 2600/4000, Train Loss: 0.25, Val Loss: 6.29, R2: 0.64, RMSE: 2.51, RPD: 1.68
+Fold 1, Epoch 2700/4000, Train Loss: 0.25, Val Loss: 5.92, R2: 0.67, RMSE: 2.43, RPD: 1.73
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 1, Epoch 2800/4000, Train Loss: 0.18, Val Loss: 5.94, R2: 0.66, RMSE: 2.44, RPD: 1.73
+Early stopping
+Fold 1, Epoch 2865/4000, Cal Loss: 0.08, R2C: 0.99, RMSEC: 0.28, RPDC: 13.82,Val Loss: 5.45, R2: 0.69, RMSE: 2.34, RPD: 1.80
+
+Training Fold 2/5
+Fold 2, Epoch 100/4000, Train Loss: 4.12, Val Loss: 5.08, R2: 0.59, RMSE: 2.25, RPD: 1.55
+Fold 2, Epoch 200/4000, Train Loss: 1.79, Val Loss: 5.11, R2: 0.58, RMSE: 2.26, RPD: 1.55
+Fold 2, Epoch 300/4000, Train Loss: 0.96, Val Loss: 5.62, R2: 0.54, RMSE: 2.37, RPD: 1.48
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 2, Epoch 400/4000, Train Loss: 0.96, Val Loss: 76.75, R2: -5.26, RMSE: 8.76, RPD: 0.40
+Fold 2, Epoch 500/4000, Train Loss: 0.69, Val Loss: 4.86, R2: 0.60, RMSE: 2.20, RPD: 1.59
+Fold 2, Epoch 600/4000, Train Loss: 0.41, Val Loss: 4.79, R2: 0.61, RMSE: 2.19, RPD: 1.60
+Fold 2, Epoch 700/4000, Train Loss: 0.35, Val Loss: 4.89, R2: 0.60, RMSE: 2.21, RPD: 1.58
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 2, Epoch 800/4000, Train Loss: 0.28, Val Loss: 4.79, R2: 0.61, RMSE: 2.19, RPD: 1.60
+Fold 2, Epoch 900/4000, Train Loss: 0.39, Val Loss: 4.48, R2: 0.63, RMSE: 2.12, RPD: 1.65
+Fold 2, Epoch 1000/4000, Train Loss: 0.29, Val Loss: 4.48, R2: 0.63, RMSE: 2.12, RPD: 1.65
+Fold 2, Epoch 1100/4000, Train Loss: 0.27, Val Loss: 4.67, R2: 0.62, RMSE: 2.16, RPD: 1.62
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 2, Epoch 1200/4000, Train Loss: 0.22, Val Loss: 4.63, R2: 0.62, RMSE: 2.15, RPD: 1.63
+Fold 2, Epoch 1300/4000, Train Loss: 0.23, Val Loss: 4.73, R2: 0.61, RMSE: 2.17, RPD: 1.61
+Fold 2, Epoch 1400/4000, Train Loss: 0.21, Val Loss: 4.58, R2: 0.63, RMSE: 2.14, RPD: 1.63
+Fold 2, Epoch 1500/4000, Train Loss: 0.22, Val Loss: 4.65, R2: 0.62, RMSE: 2.16, RPD: 1.62
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 2, Epoch 1600/4000, Train Loss: 0.27, Val Loss: 4.62, R2: 0.62, RMSE: 2.15, RPD: 1.63
+Fold 2, Epoch 1700/4000, Train Loss: 0.19, Val Loss: 4.51, R2: 0.63, RMSE: 2.12, RPD: 1.65
+Fold 2, Epoch 1800/4000, Train Loss: 0.21, Val Loss: 4.41, R2: 0.64, RMSE: 2.10, RPD: 1.67
+Fold 2, Epoch 1900/4000, Train Loss: 0.19, Val Loss: 4.59, R2: 0.63, RMSE: 2.14, RPD: 1.63
+Updating train SHAP values at epoch 2000
+Updating val SHAP values at epoch 2000
+Fold 2, Epoch 2000/4000, Train Loss: 0.22, Val Loss: 4.56, R2: 0.63, RMSE: 2.14, RPD: 1.64
+Fold 2, Epoch 2100/4000, Train Loss: 0.17, Val Loss: 4.56, R2: 0.63, RMSE: 2.14, RPD: 1.64
+Fold 2, Epoch 2200/4000, Train Loss: 0.17, Val Loss: 4.26, R2: 0.65, RMSE: 2.06, RPD: 1.70
+Fold 2, Epoch 2300/4000, Train Loss: 0.19, Val Loss: 4.37, R2: 0.64, RMSE: 2.09, RPD: 1.67
+Updating train SHAP values at epoch 2400
+Updating val SHAP values at epoch 2400
+Fold 2, Epoch 2400/4000, Train Loss: 0.20, Val Loss: 4.50, R2: 0.63, RMSE: 2.12, RPD: 1.65
+Fold 2, Epoch 2500/4000, Train Loss: 0.15, Val Loss: 4.64, R2: 0.62, RMSE: 2.15, RPD: 1.62
+Fold 2, Epoch 2600/4000, Train Loss: 0.17, Val Loss: 4.56, R2: 0.63, RMSE: 2.14, RPD: 1.64
+Fold 2, Epoch 2700/4000, Train Loss: 0.20, Val Loss: 4.61, R2: 0.62, RMSE: 2.15, RPD: 1.63
+Updating train SHAP values at epoch 2800
+Updating val SHAP values at epoch 2800
+Fold 2, Epoch 2800/4000, Train Loss: 0.19, Val Loss: 4.78, R2: 0.61, RMSE: 2.19, RPD: 1.60
+Fold 2, Epoch 2900/4000, Train Loss: 0.20, Val Loss: 4.38, R2: 0.64, RMSE: 2.09, RPD: 1.67
+Fold 2, Epoch 3000/4000, Train Loss: 0.19, Val Loss: 4.55, R2: 0.63, RMSE: 2.13, RPD: 1.64
+Fold 2, Epoch 3100/4000, Train Loss: 0.14, Val Loss: 4.61, R2: 0.62, RMSE: 2.15, RPD: 1.63
+Updating train SHAP values at epoch 3200
+Updating val SHAP values at epoch 3200
+Fold 2, Epoch 3200/4000, Train Loss: 0.19, Val Loss: 4.72, R2: 0.61, RMSE: 2.17, RPD: 1.61
+Fold 2, Epoch 3300/4000, Train Loss: 0.21, Val Loss: 4.45, R2: 0.64, RMSE: 2.11, RPD: 1.66
+Early stopping
+Fold 2, Epoch 3314/4000, Cal Loss: 0.04, R2C: 1.00, RMSEC: 0.19, RPDC: 20.55,Val Loss: 4.21, R2: 0.66, RMSE: 2.05, RPD: 1.70
+
+Training Fold 3/5
+Fold 3, Epoch 100/4000, Train Loss: 4.20, Val Loss: 6.44, R2: 0.56, RMSE: 2.54, RPD: 1.51
+Fold 3, Epoch 200/4000, Train Loss: 2.44, Val Loss: 6.44, R2: 0.56, RMSE: 2.54, RPD: 1.51
+Fold 3, Epoch 300/4000, Train Loss: 1.45, Val Loss: 6.23, R2: 0.58, RMSE: 2.50, RPD: 1.53
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 3, Epoch 400/4000, Train Loss: 0.90, Val Loss: 74.36, R2: -4.07, RMSE: 8.62, RPD: 0.44
+Fold 3, Epoch 500/4000, Train Loss: 0.55, Val Loss: 6.44, R2: 0.56, RMSE: 2.54, RPD: 1.51
+Fold 3, Epoch 600/4000, Train Loss: 0.33, Val Loss: 6.27, R2: 0.57, RMSE: 2.50, RPD: 1.53
+Fold 3, Epoch 700/4000, Train Loss: 0.32, Val Loss: 6.39, R2: 0.56, RMSE: 2.53, RPD: 1.52
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 3, Epoch 800/4000, Train Loss: 0.33, Val Loss: 6.01, R2: 0.59, RMSE: 2.45, RPD: 1.56
+Fold 3, Epoch 900/4000, Train Loss: 0.47, Val Loss: 6.24, R2: 0.57, RMSE: 2.50, RPD: 1.53
+Fold 3, Epoch 1000/4000, Train Loss: 0.29, Val Loss: 6.28, R2: 0.57, RMSE: 2.51, RPD: 1.53
+Fold 3, Epoch 1100/4000, Train Loss: 0.24, Val Loss: 6.14, R2: 0.58, RMSE: 2.48, RPD: 1.55
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 3, Epoch 1200/4000, Train Loss: 0.27, Val Loss: 6.24, R2: 0.57, RMSE: 2.50, RPD: 1.53
+Fold 3, Epoch 1300/4000, Train Loss: 0.19, Val Loss: 6.05, R2: 0.59, RMSE: 2.46, RPD: 1.56
+Fold 3, Epoch 1400/4000, Train Loss: 0.20, Val Loss: 6.00, R2: 0.59, RMSE: 2.45, RPD: 1.56
+Fold 3, Epoch 1500/4000, Train Loss: 0.21, Val Loss: 6.08, R2: 0.59, RMSE: 2.47, RPD: 1.55
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 3, Epoch 1600/4000, Train Loss: 0.20, Val Loss: 6.00, R2: 0.59, RMSE: 2.45, RPD: 1.56
+Fold 3, Epoch 1700/4000, Train Loss: 0.22, Val Loss: 6.15, R2: 0.58, RMSE: 2.48, RPD: 1.54
+Fold 3, Epoch 1800/4000, Train Loss: 0.18, Val Loss: 6.01, R2: 0.59, RMSE: 2.45, RPD: 1.56
+Fold 3, Epoch 1900/4000, Train Loss: 0.18, Val Loss: 5.86, R2: 0.60, RMSE: 2.42, RPD: 1.58
+Early stopping
+Fold 3, Epoch 1910/4000, Cal Loss: 3.19, R2C: 0.79, RMSEC: 1.79, RPDC: 2.19,Val Loss: 4.93, R2: 0.66, RMSE: 2.22, RPD: 1.72
+
+Training Fold 4/5
+Fold 4, Epoch 100/4000, Train Loss: 3.70, Val Loss: 6.94, R2: 0.58, RMSE: 2.64, RPD: 1.55
+Fold 4, Epoch 200/4000, Train Loss: 1.91, Val Loss: 6.47, R2: 0.61, RMSE: 2.54, RPD: 1.61
+Fold 4, Epoch 300/4000, Train Loss: 1.21, Val Loss: 7.18, R2: 0.57, RMSE: 2.68, RPD: 1.52
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 4, Epoch 400/4000, Train Loss: 1.27, Val Loss: 79.70, R2: -3.78, RMSE: 8.93, RPD: 0.46
+Fold 4, Epoch 500/4000, Train Loss: 0.47, Val Loss: 8.50, R2: 0.49, RMSE: 2.92, RPD: 1.40
+Fold 4, Epoch 600/4000, Train Loss: 0.37, Val Loss: 7.90, R2: 0.53, RMSE: 2.81, RPD: 1.45
+Fold 4, Epoch 700/4000, Train Loss: 0.57, Val Loss: 8.01, R2: 0.52, RMSE: 2.83, RPD: 1.44
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 4, Epoch 800/4000, Train Loss: 0.32, Val Loss: 7.84, R2: 0.53, RMSE: 2.80, RPD: 1.46
+Fold 4, Epoch 900/4000, Train Loss: 0.28, Val Loss: 7.49, R2: 0.55, RMSE: 2.74, RPD: 1.49
+Fold 4, Epoch 1000/4000, Train Loss: 0.31, Val Loss: 7.23, R2: 0.57, RMSE: 2.69, RPD: 1.52
+Fold 4, Epoch 1100/4000, Train Loss: 0.25, Val Loss: 6.95, R2: 0.58, RMSE: 2.64, RPD: 1.55
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 4, Epoch 1200/4000, Train Loss: 0.22, Val Loss: 6.94, R2: 0.58, RMSE: 2.63, RPD: 1.55
+Fold 4, Epoch 1300/4000, Train Loss: 0.22, Val Loss: 6.80, R2: 0.59, RMSE: 2.61, RPD: 1.57
+Fold 4, Epoch 1400/4000, Train Loss: 0.23, Val Loss: 7.03, R2: 0.58, RMSE: 2.65, RPD: 1.54
+Fold 4, Epoch 1500/4000, Train Loss: 0.22, Val Loss: 6.99, R2: 0.58, RMSE: 2.64, RPD: 1.54
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 4, Epoch 1600/4000, Train Loss: 0.21, Val Loss: 6.87, R2: 0.59, RMSE: 2.62, RPD: 1.56
+Early stopping
+Fold 4, Epoch 1666/4000, Cal Loss: 2.10, R2C: 0.86, RMSEC: 1.45, RPDC: 2.66,Val Loss: 6.01, R2: 0.64, RMSE: 2.45, RPD: 1.67
+
+Training Fold 5/5
+Fold 5, Epoch 100/4000, Train Loss: 3.87, Val Loss: 7.83, R2: 0.46, RMSE: 2.80, RPD: 1.36
+Fold 5, Epoch 200/4000, Train Loss: 2.16, Val Loss: 7.08, R2: 0.51, RMSE: 2.66, RPD: 1.43
+Fold 5, Epoch 300/4000, Train Loss: 1.32, Val Loss: 6.94, R2: 0.52, RMSE: 2.63, RPD: 1.45
+Updating train SHAP values at epoch 400
+Updating val SHAP values at epoch 400
+Fold 5, Epoch 400/4000, Train Loss: 1.38, Val Loss: 78.27, R2: -4.38, RMSE: 8.85, RPD: 0.43
+Fold 5, Epoch 500/4000, Train Loss: 0.56, Val Loss: 6.22, R2: 0.57, RMSE: 2.49, RPD: 1.53
+Fold 5, Epoch 600/4000, Train Loss: 0.49, Val Loss: 6.24, R2: 0.57, RMSE: 2.50, RPD: 1.53
+Fold 5, Epoch 700/4000, Train Loss: 0.31, Val Loss: 6.39, R2: 0.56, RMSE: 2.53, RPD: 1.51
+Updating train SHAP values at epoch 800
+Updating val SHAP values at epoch 800
+Fold 5, Epoch 800/4000, Train Loss: 0.27, Val Loss: 6.16, R2: 0.58, RMSE: 2.48, RPD: 1.54
+Fold 5, Epoch 900/4000, Train Loss: 0.30, Val Loss: 6.39, R2: 0.56, RMSE: 2.53, RPD: 1.51
+Fold 5, Epoch 1000/4000, Train Loss: 0.26, Val Loss: 6.47, R2: 0.55, RMSE: 2.54, RPD: 1.50
+Fold 5, Epoch 1100/4000, Train Loss: 0.28, Val Loss: 6.74, R2: 0.54, RMSE: 2.60, RPD: 1.47
+Updating train SHAP values at epoch 1200
+Updating val SHAP values at epoch 1200
+Fold 5, Epoch 1200/4000, Train Loss: 0.22, Val Loss: 6.60, R2: 0.55, RMSE: 2.57, RPD: 1.48
+Fold 5, Epoch 1300/4000, Train Loss: 0.24, Val Loss: 6.86, R2: 0.53, RMSE: 2.62, RPD: 1.46
+Fold 5, Epoch 1400/4000, Train Loss: 0.23, Val Loss: 6.72, R2: 0.54, RMSE: 2.59, RPD: 1.47
+Fold 5, Epoch 1500/4000, Train Loss: 0.26, Val Loss: 6.83, R2: 0.53, RMSE: 2.61, RPD: 1.46
+Updating train SHAP values at epoch 1600
+Updating val SHAP values at epoch 1600
+Fold 5, Epoch 1600/4000, Train Loss: 0.28, Val Loss: 6.84, R2: 0.53, RMSE: 2.62, RPD: 1.46
+Fold 5, Epoch 1700/4000, Train Loss: 0.24, Val Loss: 6.82, R2: 0.53, RMSE: 2.61, RPD: 1.46
+Fold 5, Epoch 1800/4000, Train Loss: 0.25, Val Loss: 6.78, R2: 0.53, RMSE: 2.60, RPD: 1.46
+Fold 5, Epoch 1900/4000, Train Loss: 0.21, Val Loss: 6.95, R2: 0.52, RMSE: 2.64, RPD: 1.45
+Early stopping
+Fold 5, Epoch 1919/4000, Cal Loss: 1.27, R2C: 0.92, RMSEC: 1.13, RPDC: 3.47,Val Loss: 5.49, R2: 0.62, RMSE: 2.34, RPD: 1.63
+
+Cross-validation Results:
+Average Val Loss: 5.22 ± 0.61
+Average R²: 0.65 ± 0.02
+Average RMSE: 2.28 ± 0.14
+Average RPD: 1.71 ± 0.06
+
+Process finished with exit code 0

@@ -1,0 +1,527 @@
+DATA1
+Training Fold 1/5
+Fold 1, Epoch 100/4000, Train Loss: 3.22, Val Loss: 3.11, R2: 0.35, RMSE: 1.76, RPD: 1.24
+Fold 1, Epoch 200/4000, Train Loss: 2.91, Val Loss: 2.89, R2: 0.40, RMSE: 1.70, RPD: 1.29
+Fold 1, Epoch 300/4000, Train Loss: 3.05, Val Loss: 2.71, R2: 0.44, RMSE: 1.65, RPD: 1.33
+Fold 1, Epoch 400/4000, Train Loss: 2.36, Val Loss: 2.61, R2: 0.46, RMSE: 1.62, RPD: 1.36
+Fold 1, Epoch 500/4000, Train Loss: 2.50, Val Loss: 2.54, R2: 0.47, RMSE: 1.59, RPD: 1.37
+Fold 1, Epoch 600/4000, Train Loss: 2.27, Val Loss: 2.55, R2: 0.47, RMSE: 1.60, RPD: 1.37
+Fold 1, Epoch 700/4000, Train Loss: 2.27, Val Loss: 2.68, R2: 0.44, RMSE: 1.64, RPD: 1.34
+Fold 1, Epoch 800/4000, Train Loss: 2.10, Val Loss: 2.36, R2: 0.51, RMSE: 1.54, RPD: 1.43
+Fold 1, Epoch 900/4000, Train Loss: 2.02, Val Loss: 2.28, R2: 0.52, RMSE: 1.51, RPD: 1.45
+Fold 1, Epoch 1000/4000, Train Loss: 1.77, Val Loss: 2.36, R2: 0.51, RMSE: 1.54, RPD: 1.43
+Fold 1, Epoch 1100/4000, Train Loss: 1.71, Val Loss: 2.66, R2: 0.44, RMSE: 1.63, RPD: 1.34
+Fold 1, Epoch 1200/4000, Train Loss: 1.34, Val Loss: 2.10, R2: 0.56, RMSE: 1.45, RPD: 1.51
+Fold 1, Epoch 1300/4000, Train Loss: 1.47, Val Loss: 2.06, R2: 0.57, RMSE: 1.44, RPD: 1.53
+Fold 1, Epoch 1400/4000, Train Loss: 1.47, Val Loss: 2.07, R2: 0.57, RMSE: 1.44, RPD: 1.52
+Fold 1, Epoch 1500/4000, Train Loss: 1.45, Val Loss: 2.07, R2: 0.57, RMSE: 1.44, RPD: 1.52
+Fold 1, Epoch 1600/4000, Train Loss: 1.21, Val Loss: 2.16, R2: 0.55, RMSE: 1.47, RPD: 1.49
+Fold 1, Epoch 1700/4000, Train Loss: 1.28, Val Loss: 1.89, R2: 0.61, RMSE: 1.38, RPD: 1.59
+Fold 1, Epoch 1800/4000, Train Loss: 1.03, Val Loss: 1.91, R2: 0.60, RMSE: 1.38, RPD: 1.58
+Fold 1, Epoch 1900/4000, Train Loss: 1.46, Val Loss: 1.91, R2: 0.60, RMSE: 1.38, RPD: 1.59
+Fold 1, Epoch 2000/4000, Train Loss: 1.18, Val Loss: 2.03, R2: 0.58, RMSE: 1.42, RPD: 1.54
+Fold 1, Epoch 2100/4000, Train Loss: 1.00, Val Loss: 1.61, R2: 0.66, RMSE: 1.27, RPD: 1.73
+Fold 1, Epoch 2200/4000, Train Loss: 1.06, Val Loss: 1.55, R2: 0.68, RMSE: 1.25, RPD: 1.76
+Fold 1, Epoch 2300/4000, Train Loss: 0.77, Val Loss: 2.05, R2: 0.57, RMSE: 1.43, RPD: 1.53
+Fold 1, Epoch 2400/4000, Train Loss: 1.05, Val Loss: 1.53, R2: 0.68, RMSE: 1.24, RPD: 1.77
+Fold 1, Epoch 2500/4000, Train Loss: 0.87, Val Loss: 1.62, R2: 0.66, RMSE: 1.27, RPD: 1.72
+Fold 1, Epoch 2600/4000, Train Loss: 0.79, Val Loss: 1.88, R2: 0.61, RMSE: 1.37, RPD: 1.60
+Fold 1, Epoch 2700/4000, Train Loss: 0.73, Val Loss: 1.50, R2: 0.69, RMSE: 1.23, RPD: 1.79
+Fold 1, Epoch 2800/4000, Train Loss: 0.67, Val Loss: 1.24, R2: 0.74, RMSE: 1.12, RPD: 1.96
+Fold 1, Epoch 2900/4000, Train Loss: 0.84, Val Loss: 1.24, R2: 0.74, RMSE: 1.11, RPD: 1.97
+Fold 1, Epoch 3000/4000, Train Loss: 0.78, Val Loss: 1.40, R2: 0.71, RMSE: 1.18, RPD: 1.85
+Fold 1, Epoch 3100/4000, Train Loss: 0.67, Val Loss: 1.15, R2: 0.76, RMSE: 1.07, RPD: 2.04
+Fold 1, Epoch 3200/4000, Train Loss: 0.77, Val Loss: 1.02, R2: 0.79, RMSE: 1.01, RPD: 2.17
+Fold 1, Epoch 3300/4000, Train Loss: 0.55, Val Loss: 1.63, R2: 0.66, RMSE: 1.28, RPD: 1.71
+Fold 1, Epoch 3400/4000, Train Loss: 0.67, Val Loss: 1.07, R2: 0.78, RMSE: 1.04, RPD: 2.11
+Fold 1, Epoch 3500/4000, Train Loss: 0.67, Val Loss: 1.64, R2: 0.66, RMSE: 1.28, RPD: 1.71
+Fold 1, Epoch 3600/4000, Train Loss: 0.73, Val Loss: 1.07, R2: 0.78, RMSE: 1.03, RPD: 2.12
+Fold 1, Epoch 3700/4000, Train Loss: 0.54, Val Loss: 0.95, R2: 0.80, RMSE: 0.97, RPD: 2.25
+Fold 1, Epoch 3800/4000, Train Loss: 0.62, Val Loss: 0.82, R2: 0.83, RMSE: 0.91, RPD: 2.41
+Fold 1, Epoch 3900/4000, Train Loss: 0.68, Val Loss: 1.20, R2: 0.75, RMSE: 1.10, RPD: 2.00
+Fold 1, Epoch 4000/4000, Train Loss: 0.52, Val Loss: 1.29, R2: 0.73, RMSE: 1.14, RPD: 1.92
+Fold 1, Epoch 4000/4000, Cal Loss: 0.47, R2C: 0.89, RMSEC: 0.68, RPDC: 3.05,Val Loss: 0.78, R2: 0.84, RMSE: 0.88, RPD: 2.48
+
+Training Fold 2/5
+Fold 2, Epoch 100/4000, Train Loss: 3.19, Val Loss: 3.88, R2: 0.28, RMSE: 1.97, RPD: 1.18
+Fold 2, Epoch 200/4000, Train Loss: 2.95, Val Loss: 3.48, R2: 0.36, RMSE: 1.87, RPD: 1.25
+Fold 2, Epoch 300/4000, Train Loss: 2.28, Val Loss: 3.11, R2: 0.42, RMSE: 1.76, RPD: 1.32
+Fold 2, Epoch 400/4000, Train Loss: 2.56, Val Loss: 3.33, R2: 0.38, RMSE: 1.82, RPD: 1.27
+Fold 2, Epoch 500/4000, Train Loss: 2.47, Val Loss: 2.92, R2: 0.46, RMSE: 1.71, RPD: 1.36
+Fold 2, Epoch 600/4000, Train Loss: 2.16, Val Loss: 2.90, R2: 0.46, RMSE: 1.70, RPD: 1.37
+Fold 2, Epoch 700/4000, Train Loss: 2.20, Val Loss: 2.69, R2: 0.50, RMSE: 1.64, RPD: 1.42
+Fold 2, Epoch 800/4000, Train Loss: 1.84, Val Loss: 2.67, R2: 0.51, RMSE: 1.63, RPD: 1.42
+Fold 2, Epoch 900/4000, Train Loss: 1.86, Val Loss: 2.47, R2: 0.54, RMSE: 1.57, RPD: 1.48
+Fold 2, Epoch 1000/4000, Train Loss: 1.95, Val Loss: 2.57, R2: 0.52, RMSE: 1.60, RPD: 1.45
+Fold 2, Epoch 1100/4000, Train Loss: 1.69, Val Loss: 2.39, R2: 0.56, RMSE: 1.55, RPD: 1.50
+Fold 2, Epoch 1200/4000, Train Loss: 2.04, Val Loss: 2.60, R2: 0.52, RMSE: 1.61, RPD: 1.44
+Fold 2, Epoch 1300/4000, Train Loss: 1.79, Val Loss: 2.36, R2: 0.56, RMSE: 1.54, RPD: 1.51
+Fold 2, Epoch 1400/4000, Train Loss: 1.47, Val Loss: 2.42, R2: 0.55, RMSE: 1.56, RPD: 1.49
+Fold 2, Epoch 1500/4000, Train Loss: 1.76, Val Loss: 2.08, R2: 0.61, RMSE: 1.44, RPD: 1.61
+Fold 2, Epoch 1600/4000, Train Loss: 1.78, Val Loss: 2.23, R2: 0.59, RMSE: 1.49, RPD: 1.56
+Fold 2, Epoch 1700/4000, Train Loss: 1.38, Val Loss: 2.04, R2: 0.62, RMSE: 1.43, RPD: 1.63
+Fold 2, Epoch 1800/4000, Train Loss: 1.49, Val Loss: 2.16, R2: 0.60, RMSE: 1.47, RPD: 1.58
+Fold 2, Epoch 1900/4000, Train Loss: 1.84, Val Loss: 2.12, R2: 0.61, RMSE: 1.46, RPD: 1.60
+Fold 2, Epoch 2000/4000, Train Loss: 1.46, Val Loss: 2.01, R2: 0.63, RMSE: 1.42, RPD: 1.64
+Fold 2, Epoch 2100/4000, Train Loss: 1.73, Val Loss: 1.75, R2: 0.68, RMSE: 1.32, RPD: 1.76
+Fold 2, Epoch 2200/4000, Train Loss: 1.50, Val Loss: 1.82, R2: 0.66, RMSE: 1.35, RPD: 1.72
+Fold 2, Epoch 2300/4000, Train Loss: 1.42, Val Loss: 1.84, R2: 0.66, RMSE: 1.36, RPD: 1.71
+Fold 2, Epoch 2400/4000, Train Loss: 1.67, Val Loss: 1.64, R2: 0.70, RMSE: 1.28, RPD: 1.82
+Fold 2, Epoch 2500/4000, Train Loss: 1.36, Val Loss: 1.73, R2: 0.68, RMSE: 1.31, RPD: 1.77
+Fold 2, Epoch 2600/4000, Train Loss: 1.57, Val Loss: 1.65, R2: 0.69, RMSE: 1.29, RPD: 1.81
+Fold 2, Epoch 2700/4000, Train Loss: 1.36, Val Loss: 1.73, R2: 0.68, RMSE: 1.32, RPD: 1.77
+Fold 2, Epoch 2800/4000, Train Loss: 1.24, Val Loss: 1.69, R2: 0.69, RMSE: 1.30, RPD: 1.79
+Fold 2, Epoch 2900/4000, Train Loss: 1.17, Val Loss: 1.50, R2: 0.72, RMSE: 1.23, RPD: 1.90
+Fold 2, Epoch 3000/4000, Train Loss: 1.31, Val Loss: 1.67, R2: 0.69, RMSE: 1.29, RPD: 1.80
+Fold 2, Epoch 3100/4000, Train Loss: 1.11, Val Loss: 1.57, R2: 0.71, RMSE: 1.25, RPD: 1.86
+Fold 2, Epoch 3200/4000, Train Loss: 1.22, Val Loss: 1.55, R2: 0.71, RMSE: 1.25, RPD: 1.87
+Fold 2, Epoch 3300/4000, Train Loss: 1.05, Val Loss: 1.29, R2: 0.76, RMSE: 1.14, RPD: 2.05
+Fold 2, Epoch 3400/4000, Train Loss: 1.16, Val Loss: 1.28, R2: 0.76, RMSE: 1.13, RPD: 2.06
+Fold 2, Epoch 3500/4000, Train Loss: 1.24, Val Loss: 1.70, R2: 0.69, RMSE: 1.30, RPD: 1.78
+Fold 2, Epoch 3600/4000, Train Loss: 1.00, Val Loss: 1.45, R2: 0.73, RMSE: 1.21, RPD: 1.93
+Fold 2, Epoch 3700/4000, Train Loss: 1.26, Val Loss: 1.32, R2: 0.76, RMSE: 1.15, RPD: 2.03
+Fold 2, Epoch 3800/4000, Train Loss: 1.08, Val Loss: 1.59, R2: 0.71, RMSE: 1.26, RPD: 1.84
+Fold 2, Epoch 3900/4000, Train Loss: 1.15, Val Loss: 1.35, R2: 0.75, RMSE: 1.16, RPD: 2.00
+Fold 2, Epoch 4000/4000, Train Loss: 1.05, Val Loss: 1.30, R2: 0.76, RMSE: 1.14, RPD: 2.04
+Fold 2, Epoch 4000/4000, Cal Loss: 0.52, R2C: 0.88, RMSEC: 0.72, RPDC: 2.84,Val Loss: 0.95, R2: 0.83, RMSE: 0.97, RPD: 2.39
+
+Training Fold 3/5
+Fold 3, Epoch 100/4000, Train Loss: 3.81, Val Loss: 2.24, R2: 0.42, RMSE: 1.50, RPD: 1.31
+Fold 3, Epoch 200/4000, Train Loss: 3.05, Val Loss: 1.84, R2: 0.52, RMSE: 1.36, RPD: 1.45
+Fold 3, Epoch 300/4000, Train Loss: 3.21, Val Loss: 2.19, R2: 0.43, RMSE: 1.48, RPD: 1.33
+Fold 3, Epoch 400/4000, Train Loss: 3.26, Val Loss: 2.30, R2: 0.40, RMSE: 1.52, RPD: 1.29
+Fold 3, Epoch 500/4000, Train Loss: 2.53, Val Loss: 1.57, R2: 0.59, RMSE: 1.25, RPD: 1.57
+Fold 3, Epoch 600/4000, Train Loss: 2.44, Val Loss: 1.40, R2: 0.64, RMSE: 1.18, RPD: 1.66
+Fold 3, Epoch 700/4000, Train Loss: 2.71, Val Loss: 1.52, R2: 0.61, RMSE: 1.23, RPD: 1.59
+Fold 3, Epoch 800/4000, Train Loss: 2.64, Val Loss: 1.76, R2: 0.54, RMSE: 1.33, RPD: 1.48
+Fold 3, Epoch 900/4000, Train Loss: 1.90, Val Loss: 1.83, R2: 0.53, RMSE: 1.35, RPD: 1.45
+Fold 3, Epoch 1000/4000, Train Loss: 2.36, Val Loss: 1.22, R2: 0.68, RMSE: 1.10, RPD: 1.78
+Fold 3, Epoch 1100/4000, Train Loss: 2.12, Val Loss: 1.25, R2: 0.68, RMSE: 1.12, RPD: 1.76
+Fold 3, Epoch 1200/4000, Train Loss: 1.89, Val Loss: 1.57, R2: 0.59, RMSE: 1.25, RPD: 1.57
+Fold 3, Epoch 1300/4000, Train Loss: 1.60, Val Loss: 1.05, R2: 0.73, RMSE: 1.03, RPD: 1.91
+Fold 3, Epoch 1400/4000, Train Loss: 1.70, Val Loss: 1.10, R2: 0.71, RMSE: 1.05, RPD: 1.87
+Fold 3, Epoch 1500/4000, Train Loss: 1.59, Val Loss: 1.09, R2: 0.72, RMSE: 1.05, RPD: 1.88
+Fold 3, Epoch 1600/4000, Train Loss: 1.33, Val Loss: 0.86, R2: 0.78, RMSE: 0.93, RPD: 2.11
+Fold 3, Epoch 1700/4000, Train Loss: 1.38, Val Loss: 1.23, R2: 0.68, RMSE: 1.11, RPD: 1.77
+Fold 3, Epoch 1800/4000, Train Loss: 1.77, Val Loss: 0.94, R2: 0.75, RMSE: 0.97, RPD: 2.02
+Fold 3, Epoch 1900/4000, Train Loss: 1.53, Val Loss: 1.37, R2: 0.64, RMSE: 1.17, RPD: 1.68
+Fold 3, Epoch 2000/4000, Train Loss: 1.21, Val Loss: 1.04, R2: 0.73, RMSE: 1.02, RPD: 1.92
+Fold 3, Epoch 2100/4000, Train Loss: 1.37, Val Loss: 0.87, R2: 0.77, RMSE: 0.93, RPD: 2.11
+Fold 3, Epoch 2200/4000, Train Loss: 1.40, Val Loss: 0.96, R2: 0.75, RMSE: 0.98, RPD: 2.00
+Fold 3, Epoch 2300/4000, Train Loss: 1.08, Val Loss: 0.88, R2: 0.77, RMSE: 0.94, RPD: 2.09
+Fold 3, Epoch 2400/4000, Train Loss: 1.57, Val Loss: 1.40, R2: 0.64, RMSE: 1.18, RPD: 1.66
+Fold 3, Epoch 2500/4000, Train Loss: 1.17, Val Loss: 1.02, R2: 0.74, RMSE: 1.01, RPD: 1.94
+Fold 3, Epoch 2600/4000, Train Loss: 1.10, Val Loss: 0.92, R2: 0.76, RMSE: 0.96, RPD: 2.04
+Fold 3, Epoch 2700/4000, Train Loss: 0.88, Val Loss: 1.21, R2: 0.68, RMSE: 1.10, RPD: 1.78
+Fold 3, Epoch 2800/4000, Train Loss: 0.99, Val Loss: 0.98, R2: 0.74, RMSE: 0.99, RPD: 1.98
+Fold 3, Epoch 2900/4000, Train Loss: 0.87, Val Loss: 1.10, R2: 0.71, RMSE: 1.05, RPD: 1.87
+Fold 3, Epoch 3000/4000, Train Loss: 0.82, Val Loss: 0.89, R2: 0.77, RMSE: 0.94, RPD: 2.08
+Fold 3, Epoch 3100/4000, Train Loss: 0.92, Val Loss: 0.89, R2: 0.77, RMSE: 0.95, RPD: 2.07
+Fold 3, Epoch 3200/4000, Train Loss: 0.87, Val Loss: 0.86, R2: 0.78, RMSE: 0.93, RPD: 2.12
+Fold 3, Epoch 3300/4000, Train Loss: 0.78, Val Loss: 1.04, R2: 0.73, RMSE: 1.02, RPD: 1.92
+Fold 3, Epoch 3400/4000, Train Loss: 0.93, Val Loss: 0.95, R2: 0.75, RMSE: 0.98, RPD: 2.01
+Fold 3, Epoch 3500/4000, Train Loss: 0.73, Val Loss: 0.87, R2: 0.77, RMSE: 0.93, RPD: 2.11
+Fold 3, Epoch 3600/4000, Train Loss: 0.67, Val Loss: 1.00, R2: 0.74, RMSE: 1.00, RPD: 1.96
+Fold 3, Epoch 3700/4000, Train Loss: 0.95, Val Loss: 0.80, R2: 0.79, RMSE: 0.89, RPD: 2.20
+Fold 3, Epoch 3800/4000, Train Loss: 0.65, Val Loss: 0.86, R2: 0.78, RMSE: 0.93, RPD: 2.12
+Fold 3, Epoch 3900/4000, Train Loss: 0.68, Val Loss: 0.84, R2: 0.78, RMSE: 0.91, RPD: 2.14
+Fold 3, Epoch 4000/4000, Train Loss: 0.70, Val Loss: 0.81, R2: 0.79, RMSE: 0.90, RPD: 2.19
+Fold 3, Epoch 4000/4000, Cal Loss: 0.35, R2C: 0.92, RMSEC: 0.59, RPDC: 3.64,Val Loss: 0.54, R2: 0.86, RMSE: 0.74, RPD: 2.66
+
+Training Fold 4/5
+Fold 4, Epoch 100/4000, Train Loss: 3.32, Val Loss: 2.98, R2: 0.30, RMSE: 1.73, RPD: 1.20
+Fold 4, Epoch 200/4000, Train Loss: 2.60, Val Loss: 2.52, R2: 0.41, RMSE: 1.59, RPD: 1.30
+Fold 4, Epoch 300/4000, Train Loss: 2.55, Val Loss: 2.36, R2: 0.45, RMSE: 1.54, RPD: 1.35
+Fold 4, Epoch 400/4000, Train Loss: 2.99, Val Loss: 2.29, R2: 0.46, RMSE: 1.51, RPD: 1.37
+Fold 4, Epoch 500/4000, Train Loss: 2.68, Val Loss: 2.33, R2: 0.45, RMSE: 1.53, RPD: 1.35
+Fold 4, Epoch 600/4000, Train Loss: 2.26, Val Loss: 2.29, R2: 0.46, RMSE: 1.51, RPD: 1.36
+Fold 4, Epoch 700/4000, Train Loss: 1.93, Val Loss: 2.22, R2: 0.48, RMSE: 1.49, RPD: 1.39
+Fold 4, Epoch 800/4000, Train Loss: 1.89, Val Loss: 2.05, R2: 0.52, RMSE: 1.43, RPD: 1.44
+Fold 4, Epoch 900/4000, Train Loss: 2.00, Val Loss: 2.25, R2: 0.47, RMSE: 1.50, RPD: 1.38
+Fold 4, Epoch 1000/4000, Train Loss: 1.98, Val Loss: 1.88, R2: 0.56, RMSE: 1.37, RPD: 1.51
+Fold 4, Epoch 1100/4000, Train Loss: 1.94, Val Loss: 1.94, R2: 0.55, RMSE: 1.39, RPD: 1.48
+Fold 4, Epoch 1200/4000, Train Loss: 1.81, Val Loss: 1.98, R2: 0.54, RMSE: 1.41, RPD: 1.47
+Fold 4, Epoch 1300/4000, Train Loss: 1.90, Val Loss: 1.84, R2: 0.57, RMSE: 1.36, RPD: 1.52
+Fold 4, Epoch 1400/4000, Train Loss: 1.60, Val Loss: 1.85, R2: 0.57, RMSE: 1.36, RPD: 1.52
+Fold 4, Epoch 1500/4000, Train Loss: 1.96, Val Loss: 1.94, R2: 0.55, RMSE: 1.39, RPD: 1.48
+Fold 4, Epoch 1600/4000, Train Loss: 1.64, Val Loss: 1.83, R2: 0.57, RMSE: 1.35, RPD: 1.53
+Fold 4, Epoch 1700/4000, Train Loss: 1.49, Val Loss: 1.82, R2: 0.57, RMSE: 1.35, RPD: 1.53
+Fold 4, Epoch 1800/4000, Train Loss: 1.75, Val Loss: 1.70, R2: 0.60, RMSE: 1.31, RPD: 1.58
+Fold 4, Epoch 1900/4000, Train Loss: 1.41, Val Loss: 1.57, R2: 0.63, RMSE: 1.25, RPD: 1.65
+Fold 4, Epoch 2000/4000, Train Loss: 1.51, Val Loss: 1.57, R2: 0.63, RMSE: 1.25, RPD: 1.65
+Fold 4, Epoch 2100/4000, Train Loss: 1.26, Val Loss: 1.76, R2: 0.59, RMSE: 1.33, RPD: 1.56
+Fold 4, Epoch 2200/4000, Train Loss: 1.30, Val Loss: 1.49, R2: 0.65, RMSE: 1.22, RPD: 1.69
+Fold 4, Epoch 2300/4000, Train Loss: 1.09, Val Loss: 1.60, R2: 0.63, RMSE: 1.26, RPD: 1.64
+Fold 4, Epoch 2400/4000, Train Loss: 1.19, Val Loss: 1.44, R2: 0.66, RMSE: 1.20, RPD: 1.72
+Fold 4, Epoch 2500/4000, Train Loss: 1.14, Val Loss: 1.57, R2: 0.63, RMSE: 1.25, RPD: 1.65
+Fold 4, Epoch 2600/4000, Train Loss: 1.07, Val Loss: 1.52, R2: 0.64, RMSE: 1.23, RPD: 1.68
+Fold 4, Epoch 2700/4000, Train Loss: 1.04, Val Loss: 1.36, R2: 0.68, RMSE: 1.17, RPD: 1.77
+Fold 4, Epoch 2800/4000, Train Loss: 1.16, Val Loss: 1.29, R2: 0.70, RMSE: 1.14, RPD: 1.82
+Fold 4, Epoch 2900/4000, Train Loss: 1.02, Val Loss: 1.30, R2: 0.69, RMSE: 1.14, RPD: 1.81
+Fold 4, Epoch 3000/4000, Train Loss: 1.02, Val Loss: 1.08, R2: 0.75, RMSE: 1.04, RPD: 1.99
+Fold 4, Epoch 3100/4000, Train Loss: 0.83, Val Loss: 1.30, R2: 0.69, RMSE: 1.14, RPD: 1.81
+Fold 4, Epoch 3200/4000, Train Loss: 1.05, Val Loss: 1.08, R2: 0.75, RMSE: 1.04, RPD: 1.99
+Fold 4, Epoch 3300/4000, Train Loss: 0.98, Val Loss: 1.56, R2: 0.63, RMSE: 1.25, RPD: 1.65
+Fold 4, Epoch 3400/4000, Train Loss: 0.86, Val Loss: 1.03, R2: 0.76, RMSE: 1.02, RPD: 2.04
+Fold 4, Epoch 3500/4000, Train Loss: 0.94, Val Loss: 1.34, R2: 0.69, RMSE: 1.16, RPD: 1.79
+Fold 4, Epoch 3600/4000, Train Loss: 0.65, Val Loss: 1.24, R2: 0.71, RMSE: 1.11, RPD: 1.86
+Fold 4, Epoch 3700/4000, Train Loss: 0.92, Val Loss: 1.12, R2: 0.74, RMSE: 1.06, RPD: 1.96
+Fold 4, Epoch 3800/4000, Train Loss: 0.86, Val Loss: 0.96, R2: 0.77, RMSE: 0.98, RPD: 2.11
+Fold 4, Epoch 3900/4000, Train Loss: 0.79, Val Loss: 1.00, R2: 0.77, RMSE: 1.00, RPD: 2.07
+Fold 4, Epoch 4000/4000, Train Loss: 1.06, Val Loss: 1.01, R2: 0.76, RMSE: 1.01, RPD: 2.05
+Fold 4, Epoch 4000/4000, Cal Loss: 0.39, R2C: 0.91, RMSEC: 0.62, RPDC: 3.40,Val Loss: 0.91, R2: 0.79, RMSE: 0.95, RPD: 2.17
+
+Training Fold 5/5
+Fold 5, Epoch 100/4000, Train Loss: 3.20, Val Loss: 3.17, R2: 0.18, RMSE: 1.78, RPD: 1.11
+Fold 5, Epoch 200/4000, Train Loss: 2.82, Val Loss: 2.83, R2: 0.27, RMSE: 1.68, RPD: 1.17
+Fold 5, Epoch 300/4000, Train Loss: 2.95, Val Loss: 2.50, R2: 0.36, RMSE: 1.58, RPD: 1.25
+Fold 5, Epoch 400/4000, Train Loss: 2.41, Val Loss: 2.34, R2: 0.40, RMSE: 1.53, RPD: 1.29
+Fold 5, Epoch 500/4000, Train Loss: 2.56, Val Loss: 1.95, R2: 0.50, RMSE: 1.40, RPD: 1.41
+Fold 5, Epoch 600/4000, Train Loss: 2.08, Val Loss: 2.32, R2: 0.40, RMSE: 1.52, RPD: 1.29
+Fold 5, Epoch 700/4000, Train Loss: 1.83, Val Loss: 1.95, R2: 0.50, RMSE: 1.40, RPD: 1.41
+Fold 5, Epoch 800/4000, Train Loss: 2.02, Val Loss: 1.95, R2: 0.50, RMSE: 1.40, RPD: 1.41
+Fold 5, Epoch 900/4000, Train Loss: 1.87, Val Loss: 1.85, R2: 0.52, RMSE: 1.36, RPD: 1.45
+Fold 5, Epoch 1000/4000, Train Loss: 2.03, Val Loss: 1.93, R2: 0.50, RMSE: 1.39, RPD: 1.42
+Fold 5, Epoch 1100/4000, Train Loss: 1.73, Val Loss: 1.70, R2: 0.56, RMSE: 1.30, RPD: 1.51
+Fold 5, Epoch 1200/4000, Train Loss: 1.54, Val Loss: 1.77, R2: 0.55, RMSE: 1.33, RPD: 1.48
+Fold 5, Epoch 1300/4000, Train Loss: 1.54, Val Loss: 2.15, R2: 0.45, RMSE: 1.47, RPD: 1.34
+Fold 5, Epoch 1400/4000, Train Loss: 1.53, Val Loss: 1.65, R2: 0.58, RMSE: 1.28, RPD: 1.53
+Fold 5, Epoch 1500/4000, Train Loss: 1.72, Val Loss: 1.78, R2: 0.54, RMSE: 1.33, RPD: 1.48
+Fold 5, Epoch 1600/4000, Train Loss: 1.36, Val Loss: 1.58, R2: 0.59, RMSE: 1.26, RPD: 1.57
+Fold 5, Epoch 1700/4000, Train Loss: 1.29, Val Loss: 1.74, R2: 0.55, RMSE: 1.32, RPD: 1.49
+Fold 5, Epoch 1800/4000, Train Loss: 1.55, Val Loss: 1.58, R2: 0.59, RMSE: 1.26, RPD: 1.57
+Fold 5, Epoch 1900/4000, Train Loss: 1.31, Val Loss: 1.56, R2: 0.60, RMSE: 1.25, RPD: 1.58
+Fold 5, Epoch 2000/4000, Train Loss: 1.38, Val Loss: 1.62, R2: 0.58, RMSE: 1.27, RPD: 1.55
+Fold 5, Epoch 2100/4000, Train Loss: 1.04, Val Loss: 1.62, R2: 0.58, RMSE: 1.27, RPD: 1.55
+Fold 5, Epoch 2200/4000, Train Loss: 1.62, Val Loss: 1.68, R2: 0.57, RMSE: 1.29, RPD: 1.52
+Fold 5, Epoch 2300/4000, Train Loss: 1.20, Val Loss: 1.56, R2: 0.60, RMSE: 1.25, RPD: 1.58
+Fold 5, Epoch 2400/4000, Train Loss: 1.17, Val Loss: 1.32, R2: 0.66, RMSE: 1.15, RPD: 1.71
+Fold 5, Epoch 2500/4000, Train Loss: 1.06, Val Loss: 1.29, R2: 0.67, RMSE: 1.13, RPD: 1.74
+Fold 5, Epoch 2600/4000, Train Loss: 1.18, Val Loss: 1.09, R2: 0.72, RMSE: 1.04, RPD: 1.89
+Fold 5, Epoch 2700/4000, Train Loss: 1.11, Val Loss: 1.28, R2: 0.67, RMSE: 1.13, RPD: 1.74
+Fold 5, Epoch 2800/4000, Train Loss: 0.96, Val Loss: 1.09, R2: 0.72, RMSE: 1.04, RPD: 1.89
+Fold 5, Epoch 2900/4000, Train Loss: 0.94, Val Loss: 1.04, R2: 0.73, RMSE: 1.02, RPD: 1.93
+Fold 5, Epoch 3000/4000, Train Loss: 0.98, Val Loss: 1.37, R2: 0.65, RMSE: 1.17, RPD: 1.68
+Fold 5, Epoch 3100/4000, Train Loss: 0.95, Val Loss: 1.17, R2: 0.70, RMSE: 1.08, RPD: 1.83
+Fold 5, Epoch 3200/4000, Train Loss: 0.93, Val Loss: 0.89, R2: 0.77, RMSE: 0.95, RPD: 2.08
+Fold 5, Epoch 3300/4000, Train Loss: 0.94, Val Loss: 1.27, R2: 0.67, RMSE: 1.13, RPD: 1.75
+Fold 5, Epoch 3400/4000, Train Loss: 0.77, Val Loss: 0.86, R2: 0.78, RMSE: 0.93, RPD: 2.13
+Fold 5, Epoch 3500/4000, Train Loss: 0.77, Val Loss: 0.89, R2: 0.77, RMSE: 0.94, RPD: 2.09
+Fold 5, Epoch 3600/4000, Train Loss: 0.75, Val Loss: 1.07, R2: 0.72, RMSE: 1.03, RPD: 1.91
+Fold 5, Epoch 3700/4000, Train Loss: 0.79, Val Loss: 0.88, R2: 0.77, RMSE: 0.94, RPD: 2.11
+Fold 5, Epoch 3800/4000, Train Loss: 0.76, Val Loss: 1.01, R2: 0.74, RMSE: 1.00, RPD: 1.96
+Fold 5, Epoch 3900/4000, Train Loss: 0.91, Val Loss: 1.04, R2: 0.73, RMSE: 1.02, RPD: 1.93
+Fold 5, Epoch 4000/4000, Train Loss: 0.78, Val Loss: 0.82, R2: 0.79, RMSE: 0.91, RPD: 2.18
+Fold 5, Epoch 4000/4000, Cal Loss: 0.31, R2C: 0.93, RMSEC: 0.55, RPDC: 3.87,Val Loss: 0.67, R2: 0.83, RMSE: 0.82, RPD: 2.40
+
+Cross-validation Results:
+Average Val Loss: 0.77 ± 0.15
+Average R²: 0.83 ± 0.02
+Average RMSE: 0.87 ± 0.09
+Average RPD: 2.42 ± 0.16
+
+DATA2
+Training Fold 1/5
+Fold 1, Epoch 100/4000, Train Loss: 0.40, Val Loss: 0.52, R2: 0.54, RMSE: 0.72, RPD: 1.47
+Fold 1, Epoch 200/4000, Train Loss: 0.22, Val Loss: 0.40, R2: 0.64, RMSE: 0.63, RPD: 1.67
+Fold 1, Epoch 300/4000, Train Loss: 0.21, Val Loss: 0.34, R2: 0.69, RMSE: 0.59, RPD: 1.80
+Fold 1, Epoch 400/4000, Train Loss: 0.16, Val Loss: 0.33, R2: 0.70, RMSE: 0.57, RPD: 1.84
+Fold 1, Epoch 500/4000, Train Loss: 0.13, Val Loss: 0.34, R2: 0.70, RMSE: 0.58, RPD: 1.82
+Fold 1, Epoch 600/4000, Train Loss: 0.18, Val Loss: 0.30, R2: 0.73, RMSE: 0.55, RPD: 1.92
+Fold 1, Epoch 700/4000, Train Loss: 0.12, Val Loss: 0.39, R2: 0.65, RMSE: 0.62, RPD: 1.70
+Fold 1, Epoch 800/4000, Train Loss: 0.15, Val Loss: 0.33, R2: 0.71, RMSE: 0.57, RPD: 1.85
+Fold 1, Epoch 900/4000, Train Loss: 0.17, Val Loss: 0.34, R2: 0.70, RMSE: 0.58, RPD: 1.82
+Fold 1, Epoch 1000/4000, Train Loss: 0.14, Val Loss: 0.30, R2: 0.73, RMSE: 0.55, RPD: 1.92
+Fold 1, Epoch 1100/4000, Train Loss: 0.14, Val Loss: 0.36, R2: 0.68, RMSE: 0.60, RPD: 1.77
+Fold 1, Epoch 1200/4000, Train Loss: 0.13, Val Loss: 0.31, R2: 0.73, RMSE: 0.55, RPD: 1.91
+Fold 1, Epoch 1300/4000, Train Loss: 0.14, Val Loss: 0.28, R2: 0.75, RMSE: 0.53, RPD: 1.99
+Fold 1, Epoch 1400/4000, Train Loss: 0.15, Val Loss: 0.34, R2: 0.69, RMSE: 0.59, RPD: 1.80
+Fold 1, Epoch 1500/4000, Train Loss: 0.10, Val Loss: 0.33, R2: 0.70, RMSE: 0.57, RPD: 1.84
+Fold 1, Epoch 1600/4000, Train Loss: 0.11, Val Loss: 0.32, R2: 0.71, RMSE: 0.57, RPD: 1.86
+Fold 1, Epoch 1700/4000, Train Loss: 0.17, Val Loss: 0.34, R2: 0.70, RMSE: 0.58, RPD: 1.82
+Fold 1, Epoch 1800/4000, Train Loss: 0.10, Val Loss: 0.31, R2: 0.73, RMSE: 0.55, RPD: 1.91
+Fold 1, Epoch 1900/4000, Train Loss: 0.12, Val Loss: 0.28, R2: 0.75, RMSE: 0.53, RPD: 2.01
+Fold 1, Epoch 2000/4000, Train Loss: 0.09, Val Loss: 0.32, R2: 0.71, RMSE: 0.56, RPD: 1.87
+Fold 1, Epoch 2100/4000, Train Loss: 0.11, Val Loss: 0.34, R2: 0.69, RMSE: 0.59, RPD: 1.80
+Fold 1, Epoch 2200/4000, Train Loss: 0.16, Val Loss: 0.29, R2: 0.74, RMSE: 0.54, RPD: 1.97
+Fold 1, Epoch 2300/4000, Train Loss: 0.12, Val Loss: 0.35, R2: 0.69, RMSE: 0.59, RPD: 1.79
+Fold 1, Epoch 2400/4000, Train Loss: 0.21, Val Loss: 0.25, R2: 0.78, RMSE: 0.50, RPD: 2.11
+Fold 1, Epoch 2500/4000, Train Loss: 0.17, Val Loss: 0.29, R2: 0.74, RMSE: 0.54, RPD: 1.96
+Fold 1, Epoch 2600/4000, Train Loss: 0.10, Val Loss: 0.25, R2: 0.78, RMSE: 0.50, RPD: 2.13
+Fold 1, Epoch 2700/4000, Train Loss: 0.14, Val Loss: 0.27, R2: 0.75, RMSE: 0.52, RPD: 2.02
+Fold 1, Epoch 2800/4000, Train Loss: 0.12, Val Loss: 0.26, R2: 0.77, RMSE: 0.51, RPD: 2.07
+Fold 1, Epoch 2900/4000, Train Loss: 0.12, Val Loss: 0.27, R2: 0.75, RMSE: 0.52, RPD: 2.02
+Fold 1, Epoch 3000/4000, Train Loss: 0.12, Val Loss: 0.23, R2: 0.79, RMSE: 0.48, RPD: 2.20
+Fold 1, Epoch 3100/4000, Train Loss: 0.14, Val Loss: 0.25, R2: 0.78, RMSE: 0.50, RPD: 2.12
+Fold 1, Epoch 3200/4000, Train Loss: 0.11, Val Loss: 0.27, R2: 0.76, RMSE: 0.52, RPD: 2.03
+Fold 1, Epoch 3300/4000, Train Loss: 0.19, Val Loss: 0.27, R2: 0.76, RMSE: 0.52, RPD: 2.04
+Fold 1, Epoch 3400/4000, Train Loss: 0.15, Val Loss: 0.25, R2: 0.78, RMSE: 0.50, RPD: 2.13
+Fold 1, Epoch 3500/4000, Train Loss: 0.14, Val Loss: 0.26, R2: 0.77, RMSE: 0.51, RPD: 2.09
+Fold 1, Epoch 3600/4000, Train Loss: 0.10, Val Loss: 0.26, R2: 0.77, RMSE: 0.51, RPD: 2.08
+Fold 1, Epoch 3700/4000, Train Loss: 0.14, Val Loss: 0.27, R2: 0.76, RMSE: 0.52, RPD: 2.04
+Fold 1, Epoch 3800/4000, Train Loss: 0.12, Val Loss: 0.22, R2: 0.80, RMSE: 0.47, RPD: 2.26
+Fold 1, Epoch 3900/4000, Train Loss: 0.09, Val Loss: 0.21, R2: 0.81, RMSE: 0.46, RPD: 2.32
+Fold 1, Epoch 4000/4000, Train Loss: 0.15, Val Loss: 0.24, R2: 0.78, RMSE: 0.49, RPD: 2.16
+Fold 1, Epoch 4000/4000, Cal Loss: 0.02, R2C: 0.99, RMSEC: 0.12, RPDC: 9.21,Val Loss: 0.20, R2: 0.82, RMSE: 0.45, RPD: 2.33
+
+Training Fold 2/5
+Fold 2, Epoch 100/4000, Train Loss: 0.41, Val Loss: 0.65, R2: 0.56, RMSE: 0.80, RPD: 1.51
+Fold 2, Epoch 200/4000, Train Loss: 0.23, Val Loss: 0.50, R2: 0.66, RMSE: 0.71, RPD: 1.72
+Fold 2, Epoch 300/4000, Train Loss: 0.21, Val Loss: 0.46, R2: 0.69, RMSE: 0.68, RPD: 1.79
+Fold 2, Epoch 400/4000, Train Loss: 0.17, Val Loss: 0.43, R2: 0.71, RMSE: 0.66, RPD: 1.85
+Fold 2, Epoch 500/4000, Train Loss: 0.16, Val Loss: 0.48, R2: 0.67, RMSE: 0.69, RPD: 1.75
+Fold 2, Epoch 600/4000, Train Loss: 0.25, Val Loss: 0.43, R2: 0.71, RMSE: 0.65, RPD: 1.86
+Fold 2, Epoch 700/4000, Train Loss: 0.17, Val Loss: 0.44, R2: 0.70, RMSE: 0.67, RPD: 1.83
+Fold 2, Epoch 800/4000, Train Loss: 0.18, Val Loss: 0.38, R2: 0.74, RMSE: 0.62, RPD: 1.97
+Fold 2, Epoch 900/4000, Train Loss: 0.21, Val Loss: 0.45, R2: 0.70, RMSE: 0.67, RPD: 1.82
+Fold 2, Epoch 1000/4000, Train Loss: 0.18, Val Loss: 0.44, R2: 0.70, RMSE: 0.67, RPD: 1.82
+Fold 2, Epoch 1100/4000, Train Loss: 0.16, Val Loss: 0.44, R2: 0.70, RMSE: 0.66, RPD: 1.83
+Fold 2, Epoch 1200/4000, Train Loss: 0.17, Val Loss: 0.43, R2: 0.71, RMSE: 0.66, RPD: 1.85
+Fold 2, Epoch 1300/4000, Train Loss: 0.20, Val Loss: 0.38, R2: 0.74, RMSE: 0.62, RPD: 1.97
+Fold 2, Epoch 1400/4000, Train Loss: 0.18, Val Loss: 0.36, R2: 0.76, RMSE: 0.60, RPD: 2.03
+Fold 2, Epoch 1500/4000, Train Loss: 0.13, Val Loss: 0.38, R2: 0.75, RMSE: 0.61, RPD: 1.99
+Fold 2, Epoch 1600/4000, Train Loss: 0.17, Val Loss: 0.42, R2: 0.72, RMSE: 0.65, RPD: 1.88
+Fold 2, Epoch 1700/4000, Train Loss: 0.15, Val Loss: 0.38, R2: 0.74, RMSE: 0.62, RPD: 1.97
+Fold 2, Epoch 1800/4000, Train Loss: 0.17, Val Loss: 0.32, R2: 0.78, RMSE: 0.57, RPD: 2.14
+Fold 2, Epoch 1900/4000, Train Loss: 0.19, Val Loss: 0.33, R2: 0.78, RMSE: 0.57, RPD: 2.12
+Fold 2, Epoch 2000/4000, Train Loss: 0.14, Val Loss: 0.34, R2: 0.77, RMSE: 0.59, RPD: 2.07
+Fold 2, Epoch 2100/4000, Train Loss: 0.17, Val Loss: 0.33, R2: 0.78, RMSE: 0.58, RPD: 2.11
+Fold 2, Epoch 2200/4000, Train Loss: 0.18, Val Loss: 0.35, R2: 0.76, RMSE: 0.59, RPD: 2.06
+Fold 2, Epoch 2300/4000, Train Loss: 0.17, Val Loss: 0.37, R2: 0.75, RMSE: 0.61, RPD: 1.99
+Fold 2, Epoch 2400/4000, Train Loss: 0.19, Val Loss: 0.35, R2: 0.77, RMSE: 0.59, RPD: 2.07
+Fold 2, Epoch 2500/4000, Train Loss: 0.18, Val Loss: 0.34, R2: 0.77, RMSE: 0.58, RPD: 2.08
+Fold 2, Epoch 2600/4000, Train Loss: 0.17, Val Loss: 0.31, R2: 0.79, RMSE: 0.56, RPD: 2.17
+Fold 2, Epoch 2700/4000, Train Loss: 0.17, Val Loss: 0.32, R2: 0.78, RMSE: 0.57, RPD: 2.14
+Fold 2, Epoch 2800/4000, Train Loss: 0.20, Val Loss: 0.33, R2: 0.78, RMSE: 0.57, RPD: 2.12
+Fold 2, Epoch 2900/4000, Train Loss: 0.21, Val Loss: 0.36, R2: 0.76, RMSE: 0.60, RPD: 2.04
+Fold 2, Epoch 3000/4000, Train Loss: 0.22, Val Loss: 0.31, R2: 0.79, RMSE: 0.56, RPD: 2.17
+Fold 2, Epoch 3100/4000, Train Loss: 0.13, Val Loss: 0.32, R2: 0.78, RMSE: 0.57, RPD: 2.15
+Fold 2, Epoch 3200/4000, Train Loss: 0.18, Val Loss: 0.33, R2: 0.78, RMSE: 0.57, RPD: 2.13
+Fold 2, Epoch 3300/4000, Train Loss: 0.17, Val Loss: 0.35, R2: 0.77, RMSE: 0.59, RPD: 2.07
+Fold 2, Epoch 3400/4000, Train Loss: 0.17, Val Loss: 0.30, R2: 0.79, RMSE: 0.55, RPD: 2.20
+Fold 2, Epoch 3500/4000, Train Loss: 0.18, Val Loss: 0.35, R2: 0.76, RMSE: 0.60, RPD: 2.04
+Fold 2, Epoch 3600/4000, Train Loss: 0.18, Val Loss: 0.34, R2: 0.77, RMSE: 0.58, RPD: 2.10
+Fold 2, Epoch 3700/4000, Train Loss: 0.16, Val Loss: 0.32, R2: 0.78, RMSE: 0.57, RPD: 2.13
+Fold 2, Epoch 3800/4000, Train Loss: 0.14, Val Loss: 0.34, R2: 0.77, RMSE: 0.59, RPD: 2.08
+Fold 2, Epoch 3900/4000, Train Loss: 0.18, Val Loss: 0.33, R2: 0.77, RMSE: 0.58, RPD: 2.11
+Fold 2, Epoch 4000/4000, Train Loss: 0.17, Val Loss: 0.36, R2: 0.76, RMSE: 0.60, RPD: 2.04
+Fold 2, Epoch 4000/4000, Cal Loss: 0.01, R2C: 1.00, RMSEC: 0.07, RPDC: 14.69,Val Loss: 0.28, R2: 0.81, RMSE: 0.53, RPD: 2.31
+
+Training Fold 3/5
+Fold 3, Epoch 100/4000, Train Loss: 0.36, Val Loss: 0.48, R2: 0.59, RMSE: 0.69, RPD: 1.57
+Fold 3, Epoch 200/4000, Train Loss: 0.25, Val Loss: 0.40, R2: 0.66, RMSE: 0.63, RPD: 1.72
+Fold 3, Epoch 300/4000, Train Loss: 0.33, Val Loss: 0.41, R2: 0.65, RMSE: 0.64, RPD: 1.69
+Fold 3, Epoch 400/4000, Train Loss: 0.18, Val Loss: 0.47, R2: 0.60, RMSE: 0.69, RPD: 1.58
+Fold 3, Epoch 500/4000, Train Loss: 0.19, Val Loss: 0.45, R2: 0.62, RMSE: 0.67, RPD: 1.62
+Fold 3, Epoch 600/4000, Train Loss: 0.21, Val Loss: 0.43, R2: 0.64, RMSE: 0.65, RPD: 1.66
+Fold 3, Epoch 700/4000, Train Loss: 0.17, Val Loss: 0.38, R2: 0.68, RMSE: 0.62, RPD: 1.76
+Fold 3, Epoch 800/4000, Train Loss: 0.17, Val Loss: 0.49, R2: 0.59, RMSE: 0.70, RPD: 1.56
+Fold 3, Epoch 900/4000, Train Loss: 0.24, Val Loss: 0.45, R2: 0.61, RMSE: 0.67, RPD: 1.61
+Fold 3, Epoch 1000/4000, Train Loss: 0.15, Val Loss: 0.36, R2: 0.69, RMSE: 0.60, RPD: 1.81
+Fold 3, Epoch 1100/4000, Train Loss: 0.15, Val Loss: 0.40, R2: 0.66, RMSE: 0.63, RPD: 1.72
+Fold 3, Epoch 1200/4000, Train Loss: 0.14, Val Loss: 0.38, R2: 0.68, RMSE: 0.61, RPD: 1.77
+Fold 3, Epoch 1300/4000, Train Loss: 0.17, Val Loss: 0.40, R2: 0.66, RMSE: 0.63, RPD: 1.73
+Fold 3, Epoch 1400/4000, Train Loss: 0.17, Val Loss: 0.40, R2: 0.66, RMSE: 0.63, RPD: 1.72
+Fold 3, Epoch 1500/4000, Train Loss: 0.14, Val Loss: 0.36, R2: 0.69, RMSE: 0.60, RPD: 1.81
+Fold 3, Epoch 1600/4000, Train Loss: 0.14, Val Loss: 0.45, R2: 0.62, RMSE: 0.67, RPD: 1.61
+Fold 3, Epoch 1700/4000, Train Loss: 0.18, Val Loss: 0.32, R2: 0.72, RMSE: 0.57, RPD: 1.90
+Fold 3, Epoch 1800/4000, Train Loss: 0.17, Val Loss: 0.47, R2: 0.60, RMSE: 0.68, RPD: 1.58
+Fold 3, Epoch 1900/4000, Train Loss: 0.16, Val Loss: 0.42, R2: 0.65, RMSE: 0.65, RPD: 1.68
+Fold 3, Epoch 2000/4000, Train Loss: 0.14, Val Loss: 0.43, R2: 0.63, RMSE: 0.66, RPD: 1.65
+Fold 3, Epoch 2100/4000, Train Loss: 0.16, Val Loss: 0.47, R2: 0.60, RMSE: 0.69, RPD: 1.58
+Fold 3, Epoch 2200/4000, Train Loss: 0.15, Val Loss: 0.40, R2: 0.66, RMSE: 0.63, RPD: 1.73
+Fold 3, Epoch 2300/4000, Train Loss: 0.16, Val Loss: 0.44, R2: 0.63, RMSE: 0.66, RPD: 1.64
+Fold 3, Epoch 2400/4000, Train Loss: 0.19, Val Loss: 0.43, R2: 0.64, RMSE: 0.65, RPD: 1.66
+Fold 3, Epoch 2500/4000, Train Loss: 0.20, Val Loss: 0.42, R2: 0.65, RMSE: 0.65, RPD: 1.68
+Fold 3, Epoch 2600/4000, Train Loss: 0.15, Val Loss: 0.46, R2: 0.61, RMSE: 0.67, RPD: 1.61
+Fold 3, Epoch 2700/4000, Train Loss: 0.13, Val Loss: 0.47, R2: 0.60, RMSE: 0.68, RPD: 1.59
+Fold 3, Epoch 2800/4000, Train Loss: 0.18, Val Loss: 0.43, R2: 0.63, RMSE: 0.66, RPD: 1.65
+Fold 3, Epoch 2900/4000, Train Loss: 0.16, Val Loss: 0.41, R2: 0.65, RMSE: 0.64, RPD: 1.69
+Fold 3, Epoch 3000/4000, Train Loss: 0.18, Val Loss: 0.47, R2: 0.60, RMSE: 0.68, RPD: 1.59
+Fold 3, Epoch 3100/4000, Train Loss: 0.15, Val Loss: 0.40, R2: 0.66, RMSE: 0.63, RPD: 1.71
+Fold 3, Epoch 3200/4000, Train Loss: 0.13, Val Loss: 0.47, R2: 0.60, RMSE: 0.69, RPD: 1.58
+Early stopping
+Fold 3, Epoch 3201/4000, Cal Loss: 0.01, R2C: 0.99, RMSEC: 0.11, RPDC: 10.12,Val Loss: 0.32, R2: 0.73, RMSE: 0.57, RPD: 1.92
+
+Training Fold 4/5
+Fold 4, Epoch 100/4000, Train Loss: 0.33, Val Loss: 0.34, R2: 0.73, RMSE: 0.58, RPD: 1.92
+Fold 4, Epoch 200/4000, Train Loss: 0.19, Val Loss: 0.34, R2: 0.73, RMSE: 0.58, RPD: 1.91
+Fold 4, Epoch 300/4000, Train Loss: 0.22, Val Loss: 0.36, R2: 0.71, RMSE: 0.60, RPD: 1.86
+Fold 4, Epoch 400/4000, Train Loss: 0.19, Val Loss: 0.34, R2: 0.72, RMSE: 0.59, RPD: 1.91
+Fold 4, Epoch 500/4000, Train Loss: 0.13, Val Loss: 0.27, R2: 0.78, RMSE: 0.52, RPD: 2.13
+Fold 4, Epoch 600/4000, Train Loss: 0.25, Val Loss: 0.29, R2: 0.76, RMSE: 0.54, RPD: 2.06
+Fold 4, Epoch 700/4000, Train Loss: 0.16, Val Loss: 0.31, R2: 0.75, RMSE: 0.56, RPD: 2.00
+Fold 4, Epoch 800/4000, Train Loss: 0.17, Val Loss: 0.31, R2: 0.75, RMSE: 0.55, RPD: 2.01
+Fold 4, Epoch 900/4000, Train Loss: 0.18, Val Loss: 0.32, R2: 0.74, RMSE: 0.57, RPD: 1.97
+Fold 4, Epoch 1000/4000, Train Loss: 0.17, Val Loss: 0.31, R2: 0.75, RMSE: 0.56, RPD: 1.99
+Fold 4, Epoch 1100/4000, Train Loss: 0.17, Val Loss: 0.28, R2: 0.78, RMSE: 0.53, RPD: 2.11
+Fold 4, Epoch 1200/4000, Train Loss: 0.15, Val Loss: 0.35, R2: 0.71, RMSE: 0.60, RPD: 1.87
+Fold 4, Epoch 1300/4000, Train Loss: 0.12, Val Loss: 0.33, R2: 0.74, RMSE: 0.57, RPD: 1.94
+Fold 4, Epoch 1400/4000, Train Loss: 0.15, Val Loss: 0.27, R2: 0.78, RMSE: 0.52, RPD: 2.13
+Fold 4, Epoch 1500/4000, Train Loss: 0.15, Val Loss: 0.32, R2: 0.75, RMSE: 0.56, RPD: 1.98
+Fold 4, Epoch 1600/4000, Train Loss: 0.13, Val Loss: 0.27, R2: 0.78, RMSE: 0.52, RPD: 2.13
+Fold 4, Epoch 1700/4000, Train Loss: 0.15, Val Loss: 0.28, R2: 0.77, RMSE: 0.53, RPD: 2.11
+Fold 4, Epoch 1800/4000, Train Loss: 0.17, Val Loss: 0.26, R2: 0.79, RMSE: 0.51, RPD: 2.19
+Fold 4, Epoch 1900/4000, Train Loss: 0.19, Val Loss: 0.35, R2: 0.72, RMSE: 0.59, RPD: 1.89
+Fold 4, Epoch 2000/4000, Train Loss: 0.17, Val Loss: 0.30, R2: 0.76, RMSE: 0.55, RPD: 2.04
+Fold 4, Epoch 2100/4000, Train Loss: 0.15, Val Loss: 0.30, R2: 0.76, RMSE: 0.55, RPD: 2.03
+Fold 4, Epoch 2200/4000, Train Loss: 0.17, Val Loss: 0.29, R2: 0.76, RMSE: 0.54, RPD: 2.06
+Fold 4, Epoch 2300/4000, Train Loss: 0.15, Val Loss: 0.28, R2: 0.77, RMSE: 0.53, RPD: 2.09
+Fold 4, Epoch 2400/4000, Train Loss: 0.19, Val Loss: 0.31, R2: 0.75, RMSE: 0.56, RPD: 2.00
+Fold 4, Epoch 2500/4000, Train Loss: 0.14, Val Loss: 0.30, R2: 0.76, RMSE: 0.55, RPD: 2.03
+Fold 4, Epoch 2600/4000, Train Loss: 0.16, Val Loss: 0.28, R2: 0.77, RMSE: 0.53, RPD: 2.10
+Fold 4, Epoch 2700/4000, Train Loss: 0.10, Val Loss: 0.31, R2: 0.75, RMSE: 0.56, RPD: 2.01
+Fold 4, Epoch 2800/4000, Train Loss: 0.18, Val Loss: 0.33, R2: 0.73, RMSE: 0.58, RPD: 1.93
+Fold 4, Epoch 2900/4000, Train Loss: 0.23, Val Loss: 0.30, R2: 0.76, RMSE: 0.55, RPD: 2.03
+Fold 4, Epoch 3000/4000, Train Loss: 0.15, Val Loss: 0.26, R2: 0.79, RMSE: 0.51, RPD: 2.19
+Fold 4, Epoch 3100/4000, Train Loss: 0.10, Val Loss: 0.33, R2: 0.74, RMSE: 0.57, RPD: 1.95
+Fold 4, Epoch 3200/4000, Train Loss: 0.14, Val Loss: 0.36, R2: 0.71, RMSE: 0.60, RPD: 1.86
+Fold 4, Epoch 3300/4000, Train Loss: 0.16, Val Loss: 0.26, R2: 0.79, RMSE: 0.51, RPD: 2.17
+Fold 4, Epoch 3400/4000, Train Loss: 0.15, Val Loss: 0.34, R2: 0.73, RMSE: 0.58, RPD: 1.92
+Fold 4, Epoch 3500/4000, Train Loss: 0.14, Val Loss: 0.29, R2: 0.77, RMSE: 0.54, RPD: 2.07
+Fold 4, Epoch 3600/4000, Train Loss: 0.13, Val Loss: 0.35, R2: 0.72, RMSE: 0.59, RPD: 1.90
+Fold 4, Epoch 3700/4000, Train Loss: 0.13, Val Loss: 0.26, R2: 0.79, RMSE: 0.51, RPD: 2.19
+Fold 4, Epoch 3800/4000, Train Loss: 0.21, Val Loss: 0.33, R2: 0.74, RMSE: 0.57, RPD: 1.95
+Fold 4, Epoch 3900/4000, Train Loss: 0.16, Val Loss: 0.28, R2: 0.77, RMSE: 0.53, RPD: 2.09
+Fold 4, Epoch 4000/4000, Train Loss: 0.16, Val Loss: 0.36, R2: 0.71, RMSE: 0.60, RPD: 1.86
+Fold 4, Epoch 4000/4000, Cal Loss: 0.03, R2C: 0.98, RMSEC: 0.17, RPDC: 6.75,Val Loss: 0.22, R2: 0.83, RMSE: 0.47, RPD: 2.39
+
+Training Fold 5/5
+Fold 5, Epoch 100/4000, Train Loss: 0.44, Val Loss: 0.17, R2: 0.87, RMSE: 0.41, RPD: 2.77
+Fold 5, Epoch 200/4000, Train Loss: 0.22, Val Loss: 0.17, R2: 0.86, RMSE: 0.42, RPD: 2.70
+Fold 5, Epoch 300/4000, Train Loss: 0.23, Val Loss: 0.18, R2: 0.86, RMSE: 0.43, RPD: 2.64
+Fold 5, Epoch 400/4000, Train Loss: 0.19, Val Loss: 0.17, R2: 0.86, RMSE: 0.42, RPD: 2.71
+Fold 5, Epoch 500/4000, Train Loss: 0.17, Val Loss: 0.19, R2: 0.85, RMSE: 0.43, RPD: 2.61
+Fold 5, Epoch 600/4000, Train Loss: 0.23, Val Loss: 0.21, R2: 0.84, RMSE: 0.46, RPD: 2.48
+Fold 5, Epoch 700/4000, Train Loss: 0.16, Val Loss: 0.18, R2: 0.86, RMSE: 0.42, RPD: 2.68
+Fold 5, Epoch 800/4000, Train Loss: 0.16, Val Loss: 0.20, R2: 0.84, RMSE: 0.45, RPD: 2.51
+Fold 5, Epoch 900/4000, Train Loss: 0.20, Val Loss: 0.18, R2: 0.86, RMSE: 0.43, RPD: 2.66
+Fold 5, Epoch 1000/4000, Train Loss: 0.17, Val Loss: 0.18, R2: 0.86, RMSE: 0.43, RPD: 2.64
+Fold 5, Epoch 1100/4000, Train Loss: 0.17, Val Loss: 0.19, R2: 0.85, RMSE: 0.44, RPD: 2.59
+Fold 5, Epoch 1200/4000, Train Loss: 0.18, Val Loss: 0.18, R2: 0.86, RMSE: 0.42, RPD: 2.66
+Fold 5, Epoch 1300/4000, Train Loss: 0.16, Val Loss: 0.20, R2: 0.84, RMSE: 0.45, RPD: 2.52
+Fold 5, Epoch 1400/4000, Train Loss: 0.18, Val Loss: 0.18, R2: 0.86, RMSE: 0.42, RPD: 2.69
+Fold 5, Epoch 1500/4000, Train Loss: 0.16, Val Loss: 0.18, R2: 0.86, RMSE: 0.43, RPD: 2.64
+Early stopping
+Fold 5, Epoch 1570/4000, Cal Loss: 0.19, R2C: 0.85, RMSEC: 0.44, RPDC: 2.59,Val Loss: 0.14, R2: 0.89, RMSE: 0.37, RPD: 3.06
+
+Cross-validation Results:
+Average Val Loss: 0.23 ± 0.06
+Average R²: 0.81 ± 0.05
+Average RMSE: 0.48 ± 0.07
+Average RPD: 2.40 ± 0.37
+
+DATA3
+Training Fold 1/5
+Fold 1, Epoch 100/4000, Train Loss: 6.04, Val Loss: 8.35, R2: 0.53, RMSE: 2.89, RPD: 1.46
+Fold 1, Epoch 200/4000, Train Loss: 4.56, Val Loss: 7.04, R2: 0.60, RMSE: 2.65, RPD: 1.59
+Fold 1, Epoch 300/4000, Train Loss: 2.20, Val Loss: 6.50, R2: 0.63, RMSE: 2.55, RPD: 1.65
+Fold 1, Epoch 400/4000, Train Loss: 1.41, Val Loss: 6.60, R2: 0.63, RMSE: 2.57, RPD: 1.64
+Fold 1, Epoch 500/4000, Train Loss: 0.98, Val Loss: 6.95, R2: 0.61, RMSE: 2.64, RPD: 1.60
+Fold 1, Epoch 600/4000, Train Loss: 0.61, Val Loss: 6.76, R2: 0.62, RMSE: 2.60, RPD: 1.62
+Fold 1, Epoch 700/4000, Train Loss: 0.74, Val Loss: 6.64, R2: 0.62, RMSE: 2.58, RPD: 1.63
+Fold 1, Epoch 800/4000, Train Loss: 0.66, Val Loss: 6.72, R2: 0.62, RMSE: 2.59, RPD: 1.62
+Fold 1, Epoch 900/4000, Train Loss: 0.41, Val Loss: 6.63, R2: 0.63, RMSE: 2.57, RPD: 1.63
+Fold 1, Epoch 1000/4000, Train Loss: 0.80, Val Loss: 6.93, R2: 0.61, RMSE: 2.63, RPD: 1.60
+Fold 1, Epoch 1100/4000, Train Loss: 0.46, Val Loss: 6.67, R2: 0.62, RMSE: 2.58, RPD: 1.63
+Fold 1, Epoch 1200/4000, Train Loss: 0.49, Val Loss: 6.49, R2: 0.63, RMSE: 2.55, RPD: 1.65
+Fold 1, Epoch 1300/4000, Train Loss: 0.35, Val Loss: 6.86, R2: 0.61, RMSE: 2.62, RPD: 1.61
+Fold 1, Epoch 1400/4000, Train Loss: 0.41, Val Loss: 6.54, R2: 0.63, RMSE: 2.56, RPD: 1.65
+Fold 1, Epoch 1500/4000, Train Loss: 0.36, Val Loss: 6.92, R2: 0.61, RMSE: 2.63, RPD: 1.60
+Fold 1, Epoch 1600/4000, Train Loss: 0.40, Val Loss: 6.73, R2: 0.62, RMSE: 2.60, RPD: 1.62
+Fold 1, Epoch 1700/4000, Train Loss: 0.34, Val Loss: 6.74, R2: 0.62, RMSE: 2.60, RPD: 1.62
+Early stopping
+Fold 1, Epoch 1752/4000, Cal Loss: 2.35, R2C: 0.84, RMSEC: 1.53, RPDC: 2.49,Val Loss: 6.26, R2: 0.65, RMSE: 2.50, RPD: 1.68
+
+Training Fold 2/5
+Fold 2, Epoch 100/4000, Train Loss: 5.19, Val Loss: 4.91, R2: 0.60, RMSE: 2.22, RPD: 1.58
+Fold 2, Epoch 200/4000, Train Loss: 2.83, Val Loss: 4.63, R2: 0.62, RMSE: 2.15, RPD: 1.63
+Fold 2, Epoch 300/4000, Train Loss: 1.54, Val Loss: 5.02, R2: 0.59, RMSE: 2.24, RPD: 1.56
+Fold 2, Epoch 400/4000, Train Loss: 1.43, Val Loss: 5.35, R2: 0.56, RMSE: 2.31, RPD: 1.51
+Fold 2, Epoch 500/4000, Train Loss: 0.96, Val Loss: 5.48, R2: 0.55, RMSE: 2.34, RPD: 1.49
+Fold 2, Epoch 600/4000, Train Loss: 0.68, Val Loss: 5.46, R2: 0.55, RMSE: 2.34, RPD: 1.50
+Fold 2, Epoch 700/4000, Train Loss: 0.69, Val Loss: 5.45, R2: 0.55, RMSE: 2.34, RPD: 1.50
+Fold 2, Epoch 800/4000, Train Loss: 0.55, Val Loss: 5.54, R2: 0.55, RMSE: 2.35, RPD: 1.49
+Fold 2, Epoch 900/4000, Train Loss: 0.59, Val Loss: 5.67, R2: 0.54, RMSE: 2.38, RPD: 1.47
+Fold 2, Epoch 1000/4000, Train Loss: 0.57, Val Loss: 5.65, R2: 0.54, RMSE: 2.38, RPD: 1.47
+Fold 2, Epoch 1100/4000, Train Loss: 0.43, Val Loss: 5.50, R2: 0.55, RMSE: 2.35, RPD: 1.49
+Fold 2, Epoch 1200/4000, Train Loss: 0.46, Val Loss: 5.57, R2: 0.55, RMSE: 2.36, RPD: 1.48
+Fold 2, Epoch 1300/4000, Train Loss: 0.43, Val Loss: 5.41, R2: 0.56, RMSE: 2.33, RPD: 1.51
+Fold 2, Epoch 1400/4000, Train Loss: 0.37, Val Loss: 5.81, R2: 0.53, RMSE: 2.41, RPD: 1.45
+Fold 2, Epoch 1500/4000, Train Loss: 0.34, Val Loss: 5.50, R2: 0.55, RMSE: 2.35, RPD: 1.49
+Fold 2, Epoch 1600/4000, Train Loss: 0.49, Val Loss: 5.78, R2: 0.53, RMSE: 2.40, RPD: 1.46
+Fold 2, Epoch 1700/4000, Train Loss: 0.34, Val Loss: 5.83, R2: 0.52, RMSE: 2.42, RPD: 1.45
+Early stopping
+Fold 2, Epoch 1701/4000, Cal Loss: 2.14, R2C: 0.87, RMSEC: 1.46, RPDC: 2.73,Val Loss: 4.56, R2: 0.63, RMSE: 2.14, RPD: 1.64
+
+Training Fold 3/5
+Fold 3, Epoch 100/4000, Train Loss: 4.86, Val Loss: 6.19, R2: 0.58, RMSE: 2.49, RPD: 1.54
+Fold 3, Epoch 200/4000, Train Loss: 3.38, Val Loss: 6.08, R2: 0.59, RMSE: 2.46, RPD: 1.55
+Fold 3, Epoch 300/4000, Train Loss: 1.84, Val Loss: 6.04, R2: 0.59, RMSE: 2.46, RPD: 1.56
+Fold 3, Epoch 400/4000, Train Loss: 1.17, Val Loss: 6.09, R2: 0.58, RMSE: 2.47, RPD: 1.55
+Fold 3, Epoch 500/4000, Train Loss: 1.22, Val Loss: 6.53, R2: 0.55, RMSE: 2.56, RPD: 1.50
+Fold 3, Epoch 600/4000, Train Loss: 0.92, Val Loss: 6.64, R2: 0.55, RMSE: 2.58, RPD: 1.49
+Fold 3, Epoch 700/4000, Train Loss: 0.66, Val Loss: 7.07, R2: 0.52, RMSE: 2.66, RPD: 1.44
+Fold 3, Epoch 800/4000, Train Loss: 0.60, Val Loss: 7.04, R2: 0.52, RMSE: 2.65, RPD: 1.44
+Fold 3, Epoch 900/4000, Train Loss: 0.42, Val Loss: 7.04, R2: 0.52, RMSE: 2.65, RPD: 1.44
+Fold 3, Epoch 1000/4000, Train Loss: 0.52, Val Loss: 7.10, R2: 0.52, RMSE: 2.66, RPD: 1.44
+Fold 3, Epoch 1100/4000, Train Loss: 0.70, Val Loss: 7.49, R2: 0.49, RMSE: 2.74, RPD: 1.40
+Fold 3, Epoch 1200/4000, Train Loss: 0.56, Val Loss: 7.14, R2: 0.51, RMSE: 2.67, RPD: 1.43
+Fold 3, Epoch 1300/4000, Train Loss: 0.39, Val Loss: 7.44, R2: 0.49, RMSE: 2.73, RPD: 1.40
+Fold 3, Epoch 1400/4000, Train Loss: 0.79, Val Loss: 7.23, R2: 0.51, RMSE: 2.69, RPD: 1.42
+Fold 3, Epoch 1500/4000, Train Loss: 0.39, Val Loss: 7.50, R2: 0.49, RMSE: 2.74, RPD: 1.40
+Fold 3, Epoch 1600/4000, Train Loss: 0.32, Val Loss: 7.43, R2: 0.49, RMSE: 2.73, RPD: 1.40
+Fold 3, Epoch 1700/4000, Train Loss: 0.40, Val Loss: 7.44, R2: 0.49, RMSE: 2.73, RPD: 1.40
+Early stopping
+Fold 3, Epoch 1745/4000, Cal Loss: 1.78, R2C: 0.88, RMSEC: 1.34, RPDC: 2.93,Val Loss: 5.68, R2: 0.61, RMSE: 2.38, RPD: 1.61
+
+Training Fold 4/5
+Fold 4, Epoch 100/4000, Train Loss: 6.04, Val Loss: 8.38, R2: 0.50, RMSE: 2.89, RPD: 1.41
+Fold 4, Epoch 200/4000, Train Loss: 3.99, Val Loss: 8.36, R2: 0.50, RMSE: 2.89, RPD: 1.41
+Fold 4, Epoch 300/4000, Train Loss: 2.77, Val Loss: 9.41, R2: 0.44, RMSE: 3.07, RPD: 1.33
+Fold 4, Epoch 400/4000, Train Loss: 2.70, Val Loss: 10.89, R2: 0.35, RMSE: 3.30, RPD: 1.24
+Fold 4, Epoch 500/4000, Train Loss: 1.17, Val Loss: 10.46, R2: 0.37, RMSE: 3.23, RPD: 1.26
+Fold 4, Epoch 600/4000, Train Loss: 1.17, Val Loss: 10.36, R2: 0.38, RMSE: 3.22, RPD: 1.27
+Fold 4, Epoch 700/4000, Train Loss: 0.94, Val Loss: 10.31, R2: 0.38, RMSE: 3.21, RPD: 1.27
+Fold 4, Epoch 800/4000, Train Loss: 0.74, Val Loss: 10.60, R2: 0.36, RMSE: 3.26, RPD: 1.25
+Fold 4, Epoch 900/4000, Train Loss: 0.77, Val Loss: 10.15, R2: 0.39, RMSE: 3.19, RPD: 1.28
+Fold 4, Epoch 1000/4000, Train Loss: 0.66, Val Loss: 10.17, R2: 0.39, RMSE: 3.19, RPD: 1.28
+Fold 4, Epoch 1100/4000, Train Loss: 0.56, Val Loss: 9.93, R2: 0.41, RMSE: 3.15, RPD: 1.30
+Fold 4, Epoch 1200/4000, Train Loss: 0.59, Val Loss: 9.59, R2: 0.43, RMSE: 3.10, RPD: 1.32
+Fold 4, Epoch 1300/4000, Train Loss: 0.36, Val Loss: 10.06, R2: 0.40, RMSE: 3.17, RPD: 1.29
+Fold 4, Epoch 1400/4000, Train Loss: 0.41, Val Loss: 10.12, R2: 0.39, RMSE: 3.18, RPD: 1.28
+Fold 4, Epoch 1500/4000, Train Loss: 0.36, Val Loss: 9.61, R2: 0.42, RMSE: 3.10, RPD: 1.32
+Fold 4, Epoch 1600/4000, Train Loss: 0.46, Val Loss: 9.68, R2: 0.42, RMSE: 3.11, RPD: 1.31
+Early stopping
+Fold 4, Epoch 1666/4000, Cal Loss: 4.45, R2C: 0.70, RMSEC: 2.11, RPDC: 1.82,Val Loss: 7.97, R2: 0.52, RMSE: 2.82, RPD: 1.45
+
+Training Fold 5/5
+Fold 5, Epoch 100/4000, Train Loss: 5.01, Val Loss: 7.40, R2: 0.49, RMSE: 2.72, RPD: 1.40
+Fold 5, Epoch 200/4000, Train Loss: 2.67, Val Loss: 7.13, R2: 0.51, RMSE: 2.67, RPD: 1.43
+Fold 5, Epoch 300/4000, Train Loss: 1.56, Val Loss: 6.80, R2: 0.53, RMSE: 2.61, RPD: 1.46
+Fold 5, Epoch 400/4000, Train Loss: 1.52, Val Loss: 6.80, R2: 0.53, RMSE: 2.61, RPD: 1.46
+Fold 5, Epoch 500/4000, Train Loss: 0.80, Val Loss: 7.09, R2: 0.51, RMSE: 2.66, RPD: 1.43
+Fold 5, Epoch 600/4000, Train Loss: 0.81, Val Loss: 6.88, R2: 0.53, RMSE: 2.62, RPD: 1.45
+Fold 5, Epoch 700/4000, Train Loss: 0.60, Val Loss: 7.05, R2: 0.52, RMSE: 2.66, RPD: 1.44
+Fold 5, Epoch 800/4000, Train Loss: 0.50, Val Loss: 7.19, R2: 0.51, RMSE: 2.68, RPD: 1.42
+Fold 5, Epoch 900/4000, Train Loss: 0.46, Val Loss: 7.21, R2: 0.50, RMSE: 2.69, RPD: 1.42
+Fold 5, Epoch 1000/4000, Train Loss: 0.35, Val Loss: 7.21, R2: 0.50, RMSE: 2.69, RPD: 1.42
+Fold 5, Epoch 1100/4000, Train Loss: 0.41, Val Loss: 7.15, R2: 0.51, RMSE: 2.67, RPD: 1.43
+Fold 5, Epoch 1200/4000, Train Loss: 0.44, Val Loss: 7.46, R2: 0.49, RMSE: 2.73, RPD: 1.40
+Fold 5, Epoch 1300/4000, Train Loss: 0.47, Val Loss: 7.29, R2: 0.50, RMSE: 2.70, RPD: 1.41
+Fold 5, Epoch 1400/4000, Train Loss: 0.42, Val Loss: 7.22, R2: 0.50, RMSE: 2.69, RPD: 1.42
+Fold 5, Epoch 1500/4000, Train Loss: 0.29, Val Loss: 7.10, R2: 0.51, RMSE: 2.66, RPD: 1.43
+Fold 5, Epoch 1600/4000, Train Loss: 0.41, Val Loss: 7.35, R2: 0.49, RMSE: 2.71, RPD: 1.41
+Fold 5, Epoch 1700/4000, Train Loss: 0.32, Val Loss: 7.12, R2: 0.51, RMSE: 2.67, RPD: 1.43
+Fold 5, Epoch 1800/4000, Train Loss: 0.39, Val Loss: 7.18, R2: 0.51, RMSE: 2.68, RPD: 1.42
+Fold 5, Epoch 1900/4000, Train Loss: 0.37, Val Loss: 7.39, R2: 0.49, RMSE: 2.72, RPD: 1.40
+Early stopping
+Fold 5, Epoch 1950/4000, Cal Loss: 0.65, R2C: 0.96, RMSEC: 0.81, RPDC: 4.85,Val Loss: 6.74, R2: 0.54, RMSE: 2.60, RPD: 1.47
+
+Cross-validation Results:
+Average Val Loss: 6.24 ± 1.13
+Average R²: 0.59 ± 0.05
+Average RMSE: 2.49 ± 0.23
+Average RPD: 1.57 ± 0.09
+
+Process finished with exit code 0
